@@ -1,36 +1,78 @@
-# Debajit Goswami
+# ORION HELIX AI
 
-AI Systems Engineer • Founder of SINGULARITY HORIZON
-
-Building ORION HELIX AI — intelligent autonomous systems focused on multimodal reasoning, AI infrastructure, and future-scale human-AI interaction.
+Next-generation autonomous AI infrastructure focused on multimodal reasoning, intelligent automation, and scalable human-AI interaction systems.
 
 ---
 
-## Current Focus
+# Vision
 
-- AI Agents
-- Full Stack AI Systems
+ORION HELIX AI is designed as a future-scale AI ecosystem capable of advanced reasoning, multimodal interaction, autonomous task execution, and intelligent workflow orchestration.
+
+---
+
+# Core Systems
+
+- AI Agent Framework
+- Memory Engine
+- Voice Interaction
+- Vision Processing
 - Autonomous Workflows
-- Computer Vision
-- Scalable Backend Architecture
+- API Infrastructure
+- Future Multimodal Intelligence
 
 ---
 
-## Tech Stack
+# Repository Structure
 
-Python • FastAPI • React • PostgreSQL • Docker • TensorFlow • PyTorch
-
----
-
-## Building
-
-- ORION HELIX AI
-- AI Assistant Systems
-- Autonomous Agent Frameworks
-- Future AI Infrastructure
+```bash
+frontend/        → User Interface Systems
+backend/         → API & Backend Infrastructure
+ai-engine/       → AI Intelligence Core
+architecture/    → System Design
+docs/             → Technical Documentation
+screenshots/      → UI & Demo Images
+```
 
 ---
 
-## Philosophy
+# Tech Stack
 
-“Build technology that amplifies human intelligence.”
+## Frontend
+- React
+- TailwindCSS
+
+## Backend
+- FastAPI
+- Node.js
+
+## AI Infrastructure
+- PyTorch
+- TensorFlow
+- Transformers
+
+## Database
+- PostgreSQL
+- Vector Databases
+
+## Deployment
+- Docker
+- Vercel
+- Render
+
+---
+
+# Roadmap
+
+- [ ] AI Agent Core
+- [ ] Voice Intelligence
+- [ ] Memory Architecture
+- [ ] Autonomous Task Execution
+- [ ] Vision System
+- [ ] Cloud Deployment
+- [ ] API Gateway
+
+---
+
+# Future Vision
+
+Building next-generation autonomous AI ecosystems under SINGULARITY HORIZON.
