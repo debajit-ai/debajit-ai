@@ -76,3 +76,32 @@ screenshots/      → UI & Demo Images
 # Future Vision
 
 Building next-generation autonomous AI ecosystems under SINGULARITY HORIZON.
+---
+
+# Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debajit-goswami-363a8b317/)
+
+---
+
+# Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+# GitHub Stats
+
+![Debajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight)
+
+---
+
+# Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=debajit-ai&theme=tokyonight)
