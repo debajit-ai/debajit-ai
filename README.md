@@ -1,16 +1,36 @@
-## Hi there 👋
+# Debajit Goswami
 
-<!--
-**debajit-ai/debajit-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineer • Founder of SINGULARITY HORIZON
 
-Here are some ideas to get you started:
+Building ORION HELIX AI — intelligent autonomous systems focused on multimodal reasoning, AI infrastructure, and future-scale human-AI interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- AI Agents
+- Full Stack AI Systems
+- Autonomous Workflows
+- Computer Vision
+- Scalable Backend Architecture
+
+---
+
+## Tech Stack
+
+Python • FastAPI • React • PostgreSQL • Docker • TensorFlow • PyTorch
+
+---
+
+## Building
+
+- ORION HELIX AI
+- AI Assistant Systems
+- Autonomous Agent Frameworks
+- Future AI Infrastructure
+
+---
+
+## Philosophy
+
+“Build technology that amplifies human intelligence.”
