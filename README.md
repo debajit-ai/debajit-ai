@@ -47,12 +47,13 @@
 
 ---
 
-### 🐍 Contribution Graph
+## `>_ RENDER: contribution_surface --graph`
+
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=12&custom_title=ORION%20HELIX%20%E2%80%94%20Contribution%20Graph" />
 </div>
-
 ---
 
 <div align="center">
