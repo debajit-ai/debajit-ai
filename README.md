@@ -1,107 +1,21 @@
-# ORION HELIX AI
+# Architecting Autonomous Infrastructure
 
-Next-generation autonomous AI infrastructure focused on multimodal reasoning, intelligent automation, and scalable human-AI interaction systems.
+I am a backend engineer and the Founder/CEO of **Singularity Horizon**, actively building the proprietary engine behind **Orion Helix AI**. 
 
----
-
-# Vision
-
-ORION HELIX AI is designed as a future-scale AI ecosystem capable of advanced reasoning, multimodal interaction, autonomous task execution, and intelligent workflow orchestration.
+My core focus is designing zero-latency, highly secure environments for autonomous agentic workflows and collaborative enterprise systems.
 
 ---
 
-# Core Systems
-
-- AI Agent Framework
-- Memory Engine
-- Voice Interaction
-- Vision Processing
-- Autonomous Workflows
-- API Infrastructure
-- Future Multimodal Intelligence
+### **Technical Command**
+- **Core Architecture:** Python, C++, Microservices, Systems Design
+- **Real-Time Synchronization:** Node.js, WebSockets (WSS), Event-Driven Architecture
+- **Web Infrastructure:** React, API Gateway Routing, Secure State Management
+- **Applied AI:** Advanced Prompt Engineering, LLM Orchestration, Vector Memory Integration
 
 ---
 
-# Repository Structure
+### **Current Velocity**
+> *The majority of my engineering output is currently focused on private, enterprise-grade architecture. Public repositories reflect foundational experiments; the core engine is locked down.*
 
-```bash
-frontend/        → User Interface Systems
-backend/         → API & Backend Infrastructure
-ai-engine/       → AI Intelligence Core
-architecture/    → System Design
-docs/             → Technical Documentation
-screenshots/      → UI & Demo Images
-```
-
----
-
-# Tech Stack
-
-## Frontend
-- React
-- TailwindCSS
-
-## Backend
-- FastAPI
-- Node.js
-
-## AI Infrastructure
-- PyTorch
-- TensorFlow
-- Transformers
-
-## Database
-- PostgreSQL
-- Vector Databases
-
-## Deployment
-- Docker
-- Vercel
-- Render
-
----
-
-# Roadmap
-
-- [ ] AI Agent Core
-- [ ] Voice Intelligence
-- [ ] Memory Architecture
-- [ ] Autonomous Task Execution
-- [ ] Vision System
-- [ ] Cloud Deployment
-- [ ] API Gateway
-
----
-
-# Future Vision
-
-Building next-generation autonomous AI ecosystems under SINGULARITY HORIZON.
----
-
-# Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debajit-goswami-363a8b317/)
-
----
-
-# Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-# GitHub Stats
-
-![Debajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight)
-
----
-
-# Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=debajit-ai&theme=tokyonight)
+- **Executing:** Alpha Deployment Architecture for Orion Helix (500-User Closed Sandbox)
+- **Architecting:** Real-time WebSockets bridging Python AI logic with React clients.
