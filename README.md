@@ -6,9 +6,9 @@
 
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br><br>
 
@@ -21,5 +21,8 @@
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
