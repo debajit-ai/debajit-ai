@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-# DEBAJIT GOSWAMI
-
-### Founder @ Singularity Horizon | Building ORION HELIX AI
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=AI+Systems+Engineer+%26+Founder;Building+ORION+HELIX+AI;Zero-Latency+Autonomous+Infrastructure;Multimodal+%7C+Agentic+%7C+Real-Time" />
 
 <br>
