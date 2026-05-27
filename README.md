@@ -12,7 +12,8 @@
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+
 
 <br><br>
 
@@ -20,7 +21,8 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
