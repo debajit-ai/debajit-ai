@@ -19,3 +19,7 @@
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debajit-ai&theme=github-dark&hide_border=true" />
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
