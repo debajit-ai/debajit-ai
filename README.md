@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=170&section=header&text=DEBAJIT%20GOSWAMI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Singularity%20Horizon%20%7C%20Building%20ORION%20HELIX%20AI&descAlignY=58&descColor=8b949e" />
+
+</div>
+
+<div align="center">
+
 # DEBAJIT GOSWAMI
 
 ### Founder @ Singularity Horizon | Building ORION HELIX AI
