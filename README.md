@@ -1,119 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=160&section=header&text=DEBAJIT%20GOSWAMI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Singularity%20Horizon%20%7C%20Building%20ORION%20HELIX%20AI&descAlignY=58&descColor=8b949e" />
+# DEBAJIT GOSWAMI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=AI+Systems+Engineer+%26+Founder;Building+ORION+HELIX+AI;Zero-Latency+Autonomous+Infrastructure;Multimodal+%7C+Agentic+%7C+Real-Time;Backend+Architect+%7C+AI+Agents+%7C+Systems+Design;Scaling+the+Future+of+Intelligence" alt="Typing SVG" />
+### Founder @ Singularity Horizon | Building ORION HELIX AI
 
-<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-<img src="https://komarev.com/ghpvc/?username=debajit-ai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=github_dark&hide_border=true" />
 
----
+<br>
 
-# `>_ INITIALIZE: debajit.core`
-
-```json
-{
-  "name": "Debajit Goswami",
-  "designation": [
-    "Founder",
-    "CEO",
-    "Lead Backend Architect"
-  ],
-  "organization": "Singularity Horizon",
-  "project": "ORION HELIX AI",
-  "focus": [
-    "AI Infrastructure",
-    "Agentic Systems",
-    "Multimodal Intelligence",
-    "Real-Time Communication",
-    "Autonomous Architectures"
-  ],
-  "state": "ARCHITECTING_STEALTH_MODE",
-  "version": "v0.1-alpha"
-}
-⚡ Tech Arsenal
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debajit-ai&theme=github-dark&hide_border=true" />
 
 </div>
-🧠 System Architecture
-ORION_HELIX_AI:
-  core:
-    - Autonomous AI Agents
-    - Real-Time Inference Systems
-    - Neural Communication Layer
-    - AI Infrastructure Engine
-
-  stack:
-    frontend: React + Next.js
-    backend: Node.js + Python
-    realtime: WebSockets
-
-  database:
-    - MySQL
-    - MongoDB
-
-  mission:
-    - Build scalable intelligence systems
-    - Create autonomous infrastructure
-    - Engineer real-time multimodal AI
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&custom_title=ORION%20HELIX%20%E2%80%94%20Core%20Metrics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajit-ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" /> <br/> <img src="https://streak-stats.demolab.com?user=debajit-ai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" /> </div>
-🏆 Achievement Matrix
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" /> </div>
-📈 Neural Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=16&custom_title=ORION%20HELIX%20%E2%80%94%20Neural%20Activity%20Map" /> </div>
-🌌 3D Contribution Surface
-<div align="center"> <img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/main/profile-3d-contrib/profile-night-rainbow.svg" /> </div>
-⌛ WakaTime Neural Telemetry
-BOOTING ANALYTICS ENGINE...
-CONNECTING DEVELOPMENT METRICS...
-TRACKING CODING ACTIVITY...
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
-🚀 Current Objectives
-class SingularityHorizon:
-
-    def __init__(self):
-        self.project = "ORION HELIX AI"
-        self.mode = "STEALTH"
-
-    def mission(self):
-        return "Engineering the future of intelligent systems"
-🌐 Neural Links
-<div align="center"> <a href="https://github.com/debajit-ai"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:goswamidebajitsbm@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a> </div>
-👁 Visitor Counter
-<div align="center"> <img src="https://profile-counter.glitch.me/debajit-ai/count.svg" /> </div>
-⚙️ Runtime Status
-$ systemctl status orion-helix-ai
-
-● orion-helix-ai.service - Autonomous Intelligence Core
-     Loaded: loaded
-     Active: active (running)
-     Status: EVOLVING
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" /> </div> ```
-4. COMMIT
-
-Scroll down.
