@@ -32,7 +32,7 @@ Focus:
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 <br><br>
@@ -45,7 +45,7 @@ Focus:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&theme=tokyo-night&hide_border=true" />
 <br><br>
 
 <img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/main/profile-3d-contrib/profile-night-rainbow.svg" />
