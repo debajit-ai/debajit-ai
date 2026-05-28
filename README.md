@@ -45,11 +45,11 @@ Focus:
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debajit-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/output/profile-night-rainbow.svg" />
 
 
 </div>
