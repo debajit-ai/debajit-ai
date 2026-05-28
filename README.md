@@ -37,7 +37,7 @@ Focus:
 
 <br><br>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=debajit-ai&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=debajit-ai&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
