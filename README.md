@@ -97,9 +97,8 @@ Autonomous Agents • Long-Term Memory • Real-Time Infrastructure • Multimod
 <img src="https://komarev.com/ghpvc/?username=debajit-ai&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" />
 </p>
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
-- Building ORION HELIX AI
-- AI Agent Infrastructure
-- Backend Systems Engineering
-- Startup Execution
+<p align="center">
+Building ORION HELIX AI • AI Agent Infrastructure • Backend Systems Engineering • Startup Execution
+</p>
