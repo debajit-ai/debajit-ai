@@ -23,6 +23,7 @@ Focus:
 - Agentic Workflows
 - Distributed Intelligence
 ```
+
 > Building AI systems that move from tools to teammates.
 
 <br><br>
