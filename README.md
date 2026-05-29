@@ -100,3 +100,10 @@ Building a next-generation AI system focused on:
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=debajit-ai&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" />
 </p>
+
+## 🎯 Current Focus
+
+- Building ORION HELIX AI
+- AI Agent Infrastructure
+- Backend Systems Engineering
+- Startup Execution
