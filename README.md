@@ -32,7 +32,7 @@ Focus:
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debajit-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debajit-ai&theme=github_dark" />
 
 
 <br><br>
