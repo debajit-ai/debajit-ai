@@ -65,6 +65,16 @@ Focus:
 </div>
 <br><br>
 
+# 🧠 ORION HELIX AI
+
+Building a next-generation AI system focused on:
+
+- Autonomous Agents
+- Long-Term Memory
+- Real-Time Infrastructure
+- Multimodal Intelligence
+- Human-AI Collaboration
+
 # 🚀 Featured Projects
 
 | Project | Description |
