@@ -26,9 +26,9 @@ Focus:
 
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,js,html,css,git,github,vscode" />
+</p>
 
 <br><br>
 
