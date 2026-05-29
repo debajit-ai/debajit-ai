@@ -36,6 +36,10 @@ Focus:
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debajit-ai&theme=github_dark" />
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debajit-ai&theme=github_dark" />
+
 
 <br><br>
 
