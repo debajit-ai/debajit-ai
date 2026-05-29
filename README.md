@@ -49,7 +49,7 @@ Focus:
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/output/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/debajit-ai/debajit-ai/main/output/profile-night-rainbow.svg" />
 
 
 </div>
