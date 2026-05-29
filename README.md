@@ -24,7 +24,9 @@ Focus:
 - Distributed Intelligence
 ```
 
-> Building AI systems that move from tools to teammates.
+<p align="center">
+<i>Building AI systems that move from tools to teammates.</i>
+</p>
 
 <br><br>
 
