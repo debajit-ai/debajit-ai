@@ -78,10 +78,10 @@ Building a next-generation AI system focused on:
 # 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| ORION HELIX AI | Autonomous AI infrastructure platform |
-| AI Agents Framework | Real-time agent orchestration system |
-| Neural Communication Layer | Low-latency AI messaging architecture |
+|----------|-------------|
+| [ORION HELIX AI](https://github.com/debajit-ai) | Autonomous AI infrastructure platform |
+| [AI Agents Framework](https://github.com/debajit-ai) | Real-time agent orchestration system |
+| [Neural Communication Layer](https://github.com/debajit-ai) | Low-latency AI messaging architecture |
 <br><br>
 
 <p align="center">
