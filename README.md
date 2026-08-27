@@ -291,22 +291,22 @@ This represents the first working infrastructure layer — the core systems for 
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│  ENGINEERING WORKSTATION                          │
+│  ENGINEERING WORKSTATION                         │
 ├──────────────────────────────────────────────────┤
-│                                                   │
-│  DEVICE       Acer Nitro V15                      │
-│  CPU          AMD Ryzen 5 6000 Series             │
-│  GPU          NVIDIA GeForce RTX 3050             │
-│  MEMORY       16 GB RAM                           │
-│  STORAGE      512 GB SSD                          │
-│  DISPLAY      165 Hz FHD (1920×1080)              │
-│  OS           Windows + WSL2                      │
-│                                                   │
-│  PRIMARY IDE  Visual Studio Code                  │
-│  RUNTIME      Node.js · Python · FastAPI          │
-│  VCS          Git / GitHub                        │
-│  DEPLOYMENT   Vercel                              │
-│                                                   │
+│                                                  │
+│  DEVICE       Acer Nitro V15                     │
+│  CPU          AMD Ryzen 5 6000 Series            │
+│  GPU          NVIDIA GeForce RTX 3050            │
+│  MEMORY       16 GB RAM                          │
+│  STORAGE      512 GB SSD                         │
+│  DISPLAY      165 Hz FHD (1920×1080)             │
+│  OS           Windows + WSL2                     │
+│                                                  │
+│  PRIMARY IDE  Visual Studio Code                 │
+│  RUNTIME      Node.js · Python · FastAPI         │
+│  VCS          Git / GitHub                       │
+│  DEPLOYMENT   Vercel                             │
+│                                                  │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -322,25 +322,25 @@ This represents the first working infrastructure layer — the core systems for 
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  BUILD STATUS DASHBOARD                                       │
+│  BUILD STATUS DASHBOARD                                      │
 ├───────────────────────────────────────┬──────────────────────┤
-│  ORION HELIX AI                       │                       │
+│  ORION HELIX AI                       │                      │
 │  Agent infrastructure & backend       │  ██████████████░░░░  │
 │                                       │  ● ACTIVE            │
 ├───────────────────────────────────────┼──────────────────────┤
-│  SINGULARITY HORIZON WEBSITE          │                       │
+│  SINGULARITY HORIZON WEBSITE          │                      │
 │  Cinematic 3D company experience      │  ████████████░░░░░░  │
 │                                       │  ● ACTIVE            │
 ├───────────────────────────────────────┼──────────────────────┤
-│  BLACK-WEB                            │                       │
+│  BLACK-WEB                            │                      │
 │  Personal AI operating system         │  █████████░░░░░░░░░  │
-│                                       │  ◐ IN DEVELOPMENT    │
+│                                       │  ◐ IN DEVELOPMENT   |    
 ├───────────────────────────────────────┼──────────────────────┤
-│  NEXORA                               │                       │
+│  NEXORA                               │                      │
 │  In development                       │  ███████░░░░░░░░░░░  │
-│                                       │  ◐ IN DEVELOPMENT    │
+│                                       │  ◐ IN DEVELOPMENT   |   
 ├───────────────────────────────────────┼──────────────────────┤
-│  ORION HELIX AI — Memory Engine       │                       │
+│  ORION HELIX AI — Memory Engine       │                      │
 │  Long-term memory architecture        │  ░░░░░░░░░░░░░░░░░░  │
 │                                       │  ○ PLANNED           │
 └───────────────────────────────────────┴──────────────────────┘
