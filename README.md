@@ -35,35 +35,35 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM IDENTITY                                              │
+│  SYSTEM IDENTITY                                             │
 ├──────────────────────────────────────────────────────────────┤
-│                                                               │
-│  > whoami                                                     │
-│  Debajit Goswami                                              │
-│                                                               │
-│  > role                                                       │
-│  Founder & CEO                                                │
-│  Singularity Horizon Technologies Pvt. Ltd.                   │
-│                                                               │
-│  > building                                                   │
-│  ORION HELIX AI — autonomous AI platform                      │
-│  BLACK-WEB — personal AI operating system                     │
-│  NEXORA — in development                                      │
-│                                                               │
-│  > focus                                                      │
-│  AI Agents  ·  AI Infrastructure  ·  Memory Systems           │
-│  Multimodal Intelligence  ·  Backend Engineering              │
-│  Autonomous Systems  ·  Real-Time  ·  Distributed Systems     │
-│                                                               │
-│  > education                                                  │
-│  B.Tech CSE (AI & ML)                                         │
-│  Lovely Professional University · 2025 – 2029                 │
-│                                                               │
-│  > philosophy                                                  │
-│  Systems over demos.                                          │
-│  Build in public. Label things honestly.                       │
-│  Shipped is shipped. Planned is planned.                       │
-│                                                               │
+│                                                              │
+│  > whoami                                                    │
+│  Debajit Goswami                                             │
+│                                                              │
+│  > role                                                      │
+│  Founder & CEO                                               │
+│  Singularity Horizon Technologies Pvt. Ltd.                  │
+│                                                              │
+│  > building                                                  │
+│  ORION HELIX AI — autonomous AI platform                     │
+│  BLACK-WEB — personal AI operating system                    │
+│  NEXORA — in development                                     │
+│                                                              │
+│  > focus                                                     │
+│  AI Agents  ·  AI Infrastructure  ·  Memory Systems          │
+│  Multimodal Intelligence  ·  Backend Engineering             │
+│  Autonomous Systems  ·  Real-Time  ·  Distributed Systems    │
+│                                                              │
+│  > education                                                 │
+│  B.Tech CSE (AI & ML)                                        │
+│  Lovely Professional University · 2025 – 2029                │
+│                                                              │
+│  > philosophy                                                │
+│  Systems over demos.                                         │
+│  Build in public. Label things honestly.                     │
+│  Shipped is shipped. Planned is planned.                     │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
