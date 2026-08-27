@@ -4,9 +4,6 @@
 
 <h3>Founder &amp; CEO — Singularity Horizon Technologies Pvt. Ltd.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Founder;Agentic+AI+Architecture+%26+Infrastructure;Autonomous+Systems+%7C+Multimodal+Intelligence" alt="Typing animation" />
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=860&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Founder;Agentic+AI+Architecture+%26+Infrastructure;Autonomous+Systems+%7C+Multimodal+Intelligence;Backend+Engineering+%7C+Distributed+Systems" alt="Typing animation" />
 
