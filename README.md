@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:58a6ff&height=200&section=header&text=DEBAJIT%20GOSWAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%E2%80%94%20Singularity%20Horizon%20Technologies%20Pvt.%20Ltd.&descAlignY=62&descColor=8b949e&descSize=18" alt="Debajit Goswami — Founder & CEO, Singularity Horizon Technologies Pvt. Ltd." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=DEBAJIT%20GOSWAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Debajit Goswami" />
+
+<h3>Founder &amp; CEO — Singularity Horizon Technologies Pvt. Ltd.</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Founder;Agentic+AI+Architecture+%26+Infrastructure;Autonomous+Systems+%7C+Multimodal+Intelligence" alt="Typing animation" />
 
 <br>
 
