@@ -7,7 +7,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=860&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Founder;Agentic+AI+Architecture+%26+Infrastructure;Autonomous+Systems+%7C+Multimodal+Intelligence;Backend+Engineering+%7C+Distributed+Systems" alt="Typing animation" />
 
+
 <br>
+
 
 <img src="https://img.shields.io/badge/Founder_%26_CEO-Singularity_Horizon_Technologies-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Founder & CEO" />
 <img src="https://img.shields.io/badge/Building-ORION_HELIX_AI-0d1117?style=for-the-badge&labelColor=161b22&color=6e40c9" alt="ORION HELIX AI" />
