@@ -192,43 +192,43 @@ These are solvable engineering problems. ORION HELIX AI is the system being buil
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │          INTERFACE            │
+                        │          INTERFACE           │
                         │  Composer · Artifact Canvas  │
                         │  Workspace · App Launcher    │
                         │  Notification Center         │
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │     AGENT ORCHESTRATION       │
+                        │     AGENT ORCHESTRATION      │
                         │  Task routing · Scheduling   │
                         │  Agent lifecycle management  │
-                        │  Workflow coordination        │
+                        │  Workflow coordination       │
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │       REASONING / LLM         │
-                        │  Groq · Gemini · Local models │
+                        │       REASONING / LLM        │
+                        │  Groq · Gemini · Local model │
                         │  Multi-model routing layer   │
                         │  Context window management   │
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │            MEMORY             │
+                        │            MEMORY            │
                         │  Short-term session context  │
                         │  Long-term persistent store  │
                         │  Vector recall & embeddings  │
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │        TOOLS / SERVICES       │
+                        │        TOOLS / SERVICES      │
                         │  External API calls          │
                         │  System-level actions        │
                         │  Agent capability registry   │
                         └──────────────┬───────────────┘
                                        │
                         ┌──────────────▼───────────────┐
-                        │      DATA / INFRASTRUCTURE    │
-                        │  PostgreSQL · MySQL           │
+                        │      DATA / INFRASTRUCTURE   │
+                        │  PostgreSQL · MySQL          │
                         │  Vector databases            │
                         │  Supabase auth layer         │
                         └──────────────────────────────┘
@@ -416,11 +416,11 @@ The chat application validated interface architecture, LLM routing, and basic se
 ║   DISPLAY        │  165 Hz Full HD (1920 × 1080)                             ║
 ║   ───────────────┼──────────────────────────────────────────────────         ║
 ║   OS             │  Windows 11 + WSL2 (Ubuntu)                               ║
-║   PRIMARY IDE    │  Visual Studio Code                                        ║
+║   PRIMARY IDE    │  Visual Studio Code                                       ║
 ║   RUNTIME        │  Node.js · Python 3.x · FastAPI                           ║
-║   VERSION CTRL   │  Git / GitHub                                              ║
-║   DEPLOYMENT     │  Vercel                                                    ║
-║   AI COMPUTE     │  NVIDIA RTX 3050 — local GPU acceleration                  ║
+║   VERSION CTRL   │  Git / GitHub                                             ║
+║   DEPLOYMENT     │  Vercel                                                   ║
+║   AI COMPUTE     │  NVIDIA RTX 3050 — local GPU acceleration                 ║
 ║   ───────────────┴──────────────────────────────────────────────────         ║
 ║                                                                              ║
 ║   "Night code. Caffeine. Build."                                             ║
@@ -465,11 +465,11 @@ The chat application validated interface architecture, LLM routing, and basic se
 ╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
 ║  BLACK-WEB                                 ║             │                   ║
 ║  Personal AI operating system (ORION Core) ║  ████████████░░░░░░░░░░         ║
-║                                            ║             │  ◐ IN DEVELOPMENT ║
+║                                            ║             │  ◐ IN DEVELOPMEN ║
 ╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
 ║  NEXORA                                    ║             │                   ║
 ║  Under development — details evolving      ║  █████████░░░░░░░░░░░░          ║
-║                                            ║             │  ◐ IN DEVELOPMENT ║
+║                                            ║             │  ◐ IN DEVELOPMEN ║
 ╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
 ║  ORION HELIX — Memory Engine               ║             │                   ║
 ║  Long-term persistent memory layer         ║  ░░░░░░░░░░░░░░░░░░░░░          ║
@@ -782,7 +782,7 @@ HTML · CSS — web foundation
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║               ORION HELIX AI + SINGULARITY HORIZON — ROADMAP                ║
+║               ORION HELIX AI + SINGULARITY HORIZON — ROADMAP                 ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  ██ NOW — ACTIVE BUILD                                                       ║
@@ -809,7 +809,7 @@ HTML · CSS — web foundation
 ║  ◌ Full multimodal AI pipeline (voice + vision + text unified)               ║
 ║  ◌ ORION HELIX AI as a composable developer platform                         ║
 ║                                                                              ║
-║  LEGEND:  ● Active  ○ Planned  ◌ Conceptual / Future                        ║
+║  LEGEND:  ● Active  ○ Planned  ◌ Conceptual / Future                         ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
