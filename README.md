@@ -42,45 +42,45 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM IDENTITY                                                              │
+│  SYSTEM IDENTITY                                                             │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                               │
-│  > whoami                                                                     │
-│  Debajit Goswami                                                              │
-│                                                                               │
-│  > role                                                                       │
-│  Founder & CEO                                                                │
-│  Singularity Horizon Technologies Pvt. Ltd.                                   │
-│                                                                               │
-│  > building                                                                   │
-│  ORION HELIX AI      — autonomous AI platform                                 │
-│  BLACK-WEB           — personal AI operating system (ORION Core)              │
-│  NEXORA              — in active development                                  │
-│  Singularity Horizon — cinematic 3D company website                           │
-│                                                                               │
-│  > focus                                                                      │
-│  AI Agents  ·  AI Infrastructure  ·  Memory Systems                          │
-│  Multimodal Intelligence  ·  Backend Engineering                              │
+│                                                                              │
+│  > whoami                                                                    │
+│  Debajit Goswami                                                             │
+│                                                                              │
+│  > role                                                                      │
+│  Founder & CEO                                                               │
+│  Singularity Horizon Technologies Pvt. Ltd.                                  │
+│                                                                              │
+│  > building                                                                  │
+│  ORION HELIX AI      — autonomous AI platform                                │
+│  BLACK-WEB           — personal AI operating system (ORION Core)             │
+│  NEXORA              — in active development                                 │
+│  Singularity Horizon — cinematic 3D company website                          │
+│                                                                              │
+│  > focus                                                                     │
+│  AI Agents  ·  AI Infrastructure  ·  Memory Systems                          │ 
+│  Multimodal Intelligence  ·  Backend Engineering                             │
 │  Autonomous Systems  ·  Real-Time  ·  Distributed Systems                    │
-│  Human-AI Collaboration  ·  Agentic Workflows                                 │
-│                                                                               │
-│  > education                                                                  │
-│  B.Tech CSE (AI & ML)                                                         │
-│  Lovely Professional University  ·  2025 – 2029                               │
-│                                                                               │
-│  > workstation                                                                │
+│  Human-AI Collaboration  ·  Agentic Workflows                                │
+│                                                                              │
+│  > education                                                                 │
+│  B.Tech CSE (AI & ML)                                                        │
+│  Lovely Professional University  ·  2025 – 2029                              │
+│                                                                              │
+│  > workstation                                                               │
 │  Acer Nitro V15  ·  AMD Ryzen 5 6000  ·  NVIDIA RTX 3050  ·  16 GB RAM       │
-│                                                                               │
-│  > philosophy                                                                 │
-│  Systems over demos.                                                          │
-│  Build in public. Label things honestly.                                      │
-│  Shipped is shipped. Planned is planned.                                      │
-│                                                                               │
-│  > status                                                                     │
-│  ● Founder-led solo technical build                                           │
-│  ● B.Tech AI & ML undergraduate, class of 2029                                │
-│  ● Night code. Caffeine. Build.                                               │
-│                                                                               │
+│                                                                              │
+│  > philosophy                                                                │
+│  Systems over demos.                                                         │
+│  Build in public. Label things honestly.                                     │
+│  Shipped is shipped. Planned is planned.                                     │
+│                                                                              │
+│  > status                                                                    │
+│  ● Founder-led solo technical build                                          │
+│  ● B.Tech AI & ML undergraduate, class of 2029                               │
+│  ● Night code. Caffeine. Build.                                              │
+│                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -104,7 +104,7 @@ The company's core engineering mission: build **practical, reliable AI infrastru
 
 ```text
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║          SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.                      ║
+║          SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.                       ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
 ║   DEBAJIT GOSWAMI — Founder & CEO                                         ║
@@ -112,19 +112,19 @@ The company's core engineering mission: build **practical, reliable AI infrastru
 ║            ▼                                                              ║
 ║   SINGULARITY HORIZON TECHNOLOGIES                                        ║
 ║            │                                                              ║
-║     ┌──────┴──────┬──────────────┬─────────────────┐                     ║
-║     │             │              │                 │                     ║
-║  PRIMARY       SECONDARY      SYSTEMS           RESEARCH                 ║
-║  PLATFORM      PLATFORM     EXPERIMENTS       & ARCHITECTURE             ║
-║     │             │              │                 │                     ║
-║     ▼             ▼              ▼                 ▼                     ║
-║ ORION HELIX    BLACK-WEB       NEXORA           Autonomous               ║
-║    AI           Personal     In Active           Systems                 ║
-║  Flagship        AI OS       Development        Concepts                 ║
+║     ┌──────┴──────┬──────────────┬─────────────────┐                      ║
+║     │             │              │                 │                      ║
+║  PRIMARY       SECONDARY      SYSTEMS           RESEARCH                  ║
+║  PLATFORM      PLATFORM     EXPERIMENTS       & ARCHITECTURE              ║
+║     │             │              │                 │                      ║
+║     ▼             ▼              ▼                 ▼                      ║
+║ ORION HELIX    BLACK-WEB       NEXORA           Autonomous                ║
+║    AI           Personal     In Active           Systems                  ║
+║  Flagship        AI OS       Development        Concepts                  ║
 ║  Platform        │                                                        ║
-║     │            ├── React / Vite / Framer Motion                        ║
+║     │            ├── React / Vite / Framer Motion                         ║
 ║     ├── AI Agents│── FastAPI / PostgreSQL                                 ║
-║     ├── Memory   └── ORION Core (AI backend)                             ║
+║     ├── Memory   └── ORION Core (AI backend)                              ║
 ║     ├── Multimodal                                                        ║
 ║     ├── Backend Infrastructure                                            ║
 ║     └── Human-AI Collaboration                                            ║
