@@ -5,7 +5,7 @@
 <h2>Founder &amp; CEO — Singularity Horizon Technologies Pvt. Ltd.</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Startup+Founder;Agentic+AI+%7C+AI+Infrastructure+%7C+Multimodal;Autonomous+Systems+%7C+Backend+Engineering;Distributed+Systems+%7C+Human-AI+Collaboration" alt="Typing animation" />
-
+          
 <br>
 
 <img src="https://img.shields.io/badge/FOUNDER_%26_CEO-Singularity_Horizon_Technologies_Pvt._Ltd.-0d1117?style=for-the-badge&labelColor=0a1628&color=58a6ff" alt="Founder & CEO" />
