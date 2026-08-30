@@ -65,7 +65,7 @@
 │  Human-AI Collaboration  ·  Agentic Workflows                                │
 │                                                                              │
 │  > education                                                                 │
-│  B.Tech CSE (AI & ML)                                                        │
+│  B.Tech CSE (AI & ML)                                                        |
 │  Lovely Professional University  ·  2025 – 2029                              │
 │                                                                              │
 │  > workstation                                                               │
