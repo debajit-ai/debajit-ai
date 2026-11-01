@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-assets/hero/hero-banner.svg" alt="Debajit Goswami — Singularity Horizon Technologies" width="100%" />
+<img src="profile-assets/hero/hero-banner.svg" alt="Debajit Goswami — Founder &amp; CEO" width="100%" />
 
 <br>
 
@@ -8,10 +8,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/FOUNDER_%26_CEO-Singularity_Horizon_Technologies-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Founder & CEO" />
-<img src="https://img.shields.io/badge/FLAGSHIP-ORION_HELIX_AI-0B0714?style=for-the-badge&labelColor=1A1030&color=7C3AED" alt="ORION HELIX AI" />
-<img src="https://img.shields.io/badge/B.Tech_CSE_AI_%26_ML-Lovely_Professional_University-0B0714?style=for-the-badge&labelColor=140D24&color=5B21B6" alt="LPU" />
-<img src="https://img.shields.io/badge/Class_of-2029-0B0714?style=for-the-badge&labelColor=140D24&color=D4AF37" alt="Class of 2029" />
+<img src="https://img.shields.io/badge/DEBAJIT_GOSWAMI-Founder_%26_CEO-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Founder & CEO" />
+<img src="https://img.shields.io/badge/VENTURE-Singularity_Horizon_Technologies-0B0714?style=for-the-badge&labelColor=1A1030&color=7C3AED" alt="Singularity Horizon" />
+<img src="https://img.shields.io/badge/FLAGSHIP-ORION_HELIX_AI-0B0714?style=for-the-badge&labelColor=140D24&color=00E5FF" alt="ORION HELIX AI" />
+<img src="https://img.shields.io/badge/B.Tech_CSE_AI_%26_ML-LPU_Class_of_2029-0B0714?style=for-the-badge&labelColor=140D24&color=5B21B6" alt="LPU 2029" />
 
 <br><br>
 
@@ -27,7 +27,7 @@
 
 <br><br>
 
-<p><i>"Engineering the sovereign systems layer where artificial intelligence evolves from stateless prompts into coordinated, persistent, autonomous software."</i></p>
+<p><i>"The founder is the architect. The company is the venture. The software is the engineering proof."</i></p>
 
 </div>
 
@@ -37,99 +37,99 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ // SYSTEM IDENTITY MATRIX — FOUNDER TELEMETRY & WORKSPACE PROFILE                      │
+│ // EXECUTIVE TELEMETRY & FOUNDER PROFILE — OPERATOR MATRIX                             │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                        │
-│  EXECUTIVE      │ Debajit Goswami                                                      │
-│  POSITION       │ Founder & CEO — Singularity Horizon Technologies Pvt. Ltd.           │
-│  DISCIPLINE     │ AI Systems Engineer · AI/ML Developer · Distributed Systems          │
+│  FOUNDER        │ Debajit Goswami                                                      │
+│  EXECUTIVE ROLE │ Founder & CEO                                                        │
+│  VENTURE ENTITY │ Singularity Horizon Technologies Pvt. Ltd.                           │
+│  CORE DISCIPLINE│ AI Systems Engineer · AI/ML Developer · Distributed Systems          │
 │  ACADEMICS      │ B.Tech Computer Science & Engineering (Artificial Intelligence & ML) │
 │                 │ Lovely Professional University · Class of 2029                       │
-│  COORDINATES    │ Punjab, India [31.25°N, 75.70°E]                                     │
+│  BASE STATION   │ Punjab, India [31.25°N, 75.70°E]                                     │
 │                                                                                        │
 │ ────────────────┼───────────────────────────────────────────────────────────────────── │
 │                                                                                        │
-│  PRIMARY ENGINE │ ORION HELIX AI — Flagship Generative & Agentic Intelligence Platform │
-│  CORE DOMAINS   │ Multi-Agent Task Orchestration · Long-Term Context & Memory Systems  │
-│                 │ Dual-LLM Inference Routing · High-Throughput Distributed Microservices│
-│                 │ Real-Time Communication Pipelines · GPU-Accelerated 3D WebGL Graphic │
+│  FLAGSHIP BUILD │ ORION HELIX AI — Generative & Agentic Intelligence Platform          │
+│  CORE FOCUS     │ Multi-Agent Task Orchestration · Stateful AI Infrastructure          │
+│                 │ Dual-LLM Routing (Groq + Gemini) · Dynamic Replanning Architecture   │
+│                 │ Human-in-the-Loop Safe Execution · 3D Spatial Graphics (WebGL/GLSL)  │
 │                                                                                        │
 │  COMPUTE RIG    │ Acer Nitro V15 · AMD Ryzen 5 · NVIDIA GeForce RTX 3050 (AI Compute)  │
-│  OPERATING ENV  │ Windows 11 Pro + WSL2 (Ubuntu Linux) · VS Code · Git / GitHub Actions│
+│  ENVIRONMENT    │ Windows 11 Pro + WSL2 (Ubuntu Linux) · VS Code · Git / GitHub Actions│
 │                                                                                        │
 │  CORE AXIOM     │ SYSTEMS OVER DEMOS.                                                  │
-│                 │ Build for long-term technological leverage. Zero-mock telemetry.     │
+│                 │ Ship working software. Zero mock data. Build for compounding leverage│
 │                                                                                        │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ◈ SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.
+## ◈ THE FOUNDER-CENTRIC TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
-<img src="profile-assets/ecosystem/singularity-ecosystem.svg" alt="Singularity Horizon Technologies Ecosystem" width="100%" />
+<img src="profile-assets/ecosystem/founder-ecosystem.svg" alt="The Founder-Centric Technology Ecosystem" width="100%" />
 
 </div>
 
 <br>
 
-**Singularity Horizon Technologies Pvt. Ltd.** is an independent AI technology venture established to design, engineer, and deploy intelligent software platforms and next-generation interactive systems.
+The engineering initiatives across this portfolio originate from a unified founder-led vision: **transitioning artificial intelligence from disposable, single-turn prompts into sovereign, stateful, autonomous systems.**
 
-Modern AI applications frequently suffer from a fundamental engineering bottleneck: **isolated, stateless, single-turn interactions**. Singularity Horizon exists to build the sovereign infrastructure layer that makes AI models reliably useful over long operational horizons — coordinating agents, persisting semantic state, recovering from runtime failures, and collaborating with human operators.
-
-<br>
+The visual hierarchy is explicit:
+$$\text{DEBAJIT GOSWAMI (Founder \& CEO)} \;\longrightarrow\; \text{SINGULARITY HORIZON TECHNOLOGIES (The Venture)} \;\longrightarrow\; \text{PRODUCT FLEET}$$
 
 ### ◈ Strategic Product Fleet
 
-* **ORION HELIX AI** — Flagship platform engineering the bridge from generative LLM inference to stateful, multi-agent autonomous intelligence.
-* **CampVion (Project 55)** — Intelligent Campus Operations platform demonstrating true agentic behavior: goal decomposition, tool orchestration, dynamic failure replanning, and human-in-the-loop approval.
-* **BLACK-WEB** — Personal AI operating system powered by ORION Core, featuring a three-column cyber-operator console, real backend memory endpoints, and an uncompromising zero-mock telemetry philosophy.
-* **Singularity Horizon 3D Experience** — Cinematic digital identity engineered as a spatial, scroll-driven 3D web experience with custom WebGL GLSL shaders and lightweight Zustand state architecture.
-* **NEXORA** — Exploratory research laboratory investigating distributed architectures and high-concurrency systems.
+* **🧠 ORION HELIX AI** — Flagship generative AI platform evolving toward agentic intelligence. Engineered with dual-LLM routing, real-time WebSocket token streaming, and an artifact canvas UI.
+* **⚡ CAMPVION (PROJECT 55)** — Intelligent Campus Operations platform featuring verified agentic task decomposition and a stateful human-in-the-loop approval gate.
+* **⬛ BLACK-WEB** — Personal AI operating system powered by ORION Core, featuring a three-column cyber-operator console, real backend memory endpoints, and an uncompromising zero-mock telemetry principle.
+* **🌐 SINGULARITY HORIZON 3D EXPERIENCE** — Official company digital identity engineered as a spatial, scroll-driven 3D web experience with custom WebGL GLSL shaders and lightweight Zustand state architecture.
+* **◈ NEXORA** — Exploratory research laboratory investigating distributed architectures, state synchronization, and high-concurrency software.
 
 <div align="center">
 
 <a href="https://github.com/SingularityHorizon">
-<img src="https://img.shields.io/badge/Organization_GitHub-SingularityHorizon-140D24?style=for-the-badge&logo=github&logoColor=7C3AED" alt="Singularity Horizon Org" />
+<img src="https://img.shields.io/badge/Venture_Organization-SingularityHorizon-140D24?style=for-the-badge&logo=github&logoColor=7C3AED" alt="Singularity Horizon Org" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 FLAGSHIP PLATFORM: ORION HELIX AI
+## 🧠 FLAGSHIP PRODUCT: ORION HELIX AI
 ### *The Multiverse of Artificial Intelligence*
 
 <div align="center">
 
-<img src="profile-assets/orion/orion-architecture.svg" alt="ORION HELIX AI Architecture Matrix" width="100%" />
+<img src="profile-assets/orion/orion-core-visual.svg" alt="ORION HELIX AI Intelligence Core" width="100%" />
 
 </div>
 
 <br>
 
-**ORION HELIX AI** represents the core technical investment under Singularity Horizon Technologies. It is not an ephemeral chatbot or an API wrapper. It is being architected as a **composable AI systems layer** designed to eliminate the architectural statelessness of contemporary generative AI.
+**ORION HELIX AI** represents the primary technical investment under Singularity Horizon Technologies. It is engineered to eliminate the fundamental limitation of contemporary AI apps: **architectural statelessness**.
 
 <br>
 
 <details>
-<summary><b>◈ The Core Engineering Problem — Why ORION HELIX AI Exists (Click to expand)</b></summary>
+<summary><b>◈ Architectural Specification — 4-Tier Systems Matrix (Click to expand)</b></summary>
 
 <br>
 
-Most current AI applications are fundamentally stateless:
-- Every conversation resets from ground zero.
-- Every tool execution is an isolated API invocation without execution tracing.
-- Agent failures silently cascade without deterministic error-recovery boundaries.
-- Models operate in passive question-answering loops rather than active human-AI collaboration.
+<div align="center">
+<img src="profile-assets/orion/orion-architecture.svg" alt="ORION HELIX AI System Architecture Matrix" width="100%" />
+</div>
 
-**ORION HELIX AI** addresses this through a layered systems architecture:
-1. **Multi-Model Routing Gateway:** Dynamically routes prompts between ultra-fast inference engines (Groq API) and comprehensive multimodal reasoning models (Google Gemini API).
-2. **Deterministic Agentic Orchestration:** Decomposes complex human instructions into directed acyclic task graphs (DAGs), verifies preconditions, and executes tools within controlled sandboxes.
-3. **Multi-Tiered Memory:** Couples short-term session buffers with long-term vector embeddings, ensuring persistent context and semantic recall across disparate sessions.
-4. **Artifact-Driven Collaboration:** Replaces conventional text chat with a synchronized dual-surface workspace (`Artifact Canvas V4`) enabling users and AI to inspect and modify live artifacts simultaneously.
+<br>
+
+The platform decouples raw model inference from systems-level execution across 4 distinct layers:
+1. **Client & Surface Layer:** Side-by-side artifact rendering canvas (`Artifact Canvas V4 Engine`), modular application launcher (`OrionHelixOS`), and low-latency bidirectional streaming (`Socket.io`).
+2. **API Gateway & Routing Layer:** Dynamic switching between low-latency inference (`Groq API`, 500+ tokens/sec) and deep multimodal analysis (`Google Gemini API`), coordinated by asynchronous FastAPI microservices and Supabase authentication.
+3. **Agentic Reasoning & Orchestration Layer:** Directed acyclic graph (DAG) goal decomposition, schema-enforced tool sandboxing, dynamic replanning, and human-in-the-loop approval gates.
+4. **Persistent Memory & Data Subsystem:** Multi-tiered memory architecture coupling short-term conversational caches with long-term vector embeddings and structured MySQL/PostgreSQL relational state.
 
 </details>
 
@@ -137,7 +137,7 @@ Most current AI applications are fundamentally stateless:
 
 ### ◈ ORION HELIX AI — Verified Capability Classification Matrix
 
-To adhere strictly to our **Systems Over Demos** philosophy, capabilities are classified with complete technical transparency:
+To preserve strict technical accuracy, capabilities are classified by their verified state:
 
 | Subsystem / Layer | Capability & Architecture | Classification | Stack & Verification |
 |:---|:---|:---:|:---|
@@ -166,6 +166,34 @@ To adhere strictly to our **Systems Over Demos** philosophy, capabilities are cl
 
 ---
 
+## ⚡ CAMPVION (PROJECT 55) — VERIFIED AGENTIC WORKFLOW
+### *Intelligent Campus Operations & Human-in-the-Loop Architecture*
+
+<div align="center">
+
+<img src="profile-assets/campvion/campvion-workflow.svg" alt="CampVion Human-in-the-Loop State Machine" width="100%" />
+
+</div>
+
+<br>
+
+**CampVion (Project 55)** is an Intelligent Campus Operations assistant engineered to address the critical failure mode of traditional AI chatbots: **silent cascading errors during consequential multi-step tasks**.
+
+Instead of assuming complete autonomous execution, CampVion implements an intentional, production-grade **Human-in-the-Loop (HITL) approval architecture**:
+
+1. **Autonomous Request Parsing:** Ingests complex campus workflows (e.g., equipment reservation, laboratory scheduling, administrative leave).
+2. **Goal Decomposition & Tool Selection:** Decomposes instructions into a structured tool-execution DAG.
+3. **Consequential Action Detection:** When a tool call modifies external state or requires official authorization, the engine automatically **suspends workflow execution**.
+4. **State Serialization:** Execution context, intermediate parameters, and approval tokens are serialized into a local SQLite database.
+5. **Human Approval Gate:** The workflow halts until an authorized administrator verifies parameters and submits a `POST /api/approve/{workflow_id}` request.
+6. **Resumption & Audit Tracing:** The engine restores state, completes external API invocations, and produces a tamper-evident execution trace.
+
+- **Stack:** Next.js &bull; Python &bull; FastAPI &bull; SQLite &bull; RESTful Endpoints
+- **Status:** Verified Working Prototype
+- **Repository:** [`debajit-ai/CampVion`](https://github.com/debajit-ai/CampVion)
+
+---
+
 ## 🚀 FEATURED ENGINEERING REPOSITORIES
 
 <table width="100%">
@@ -179,7 +207,7 @@ To adhere strictly to our **Systems Over Demos** philosophy, capabilities are cl
 
 <br><br>
 
-Public-facing architecture, roadmap, and design documentation showcase for the **ORION HELIX AI** platform. Documents system-level routing, component matrices, and interface design while proprietary core engines remain in active development.
+Public-facing architecture, roadmap, and technical design showcase for the **ORION HELIX AI** platform. Documents system-level routing, component matrices, and interface design while proprietary core engines remain in active development.
 
 - **Stack:** React &bull; Node.js &bull; Express &bull; FastAPI &bull; Socket.io &bull; MySQL &bull; Supabase
 - **Key Contribution:** Specification of dual-model routing, modular artifact canvas rendering, and agent infrastructure roadmap.
@@ -191,14 +219,14 @@ Public-facing architecture, roadmap, and design documentation showcase for the *
 ### ⚡ CampVion (Project 55)
 
 <img src="https://img.shields.io/badge/Status-SHIPPED_PROTOTYPE-D4AF37?style=flat-square&labelColor=1A1030" alt="Shipped" />
-<img src="https://img.shields.io/badge/Domain-Autonomous_Agentic_Workflows-00E5FF?style=flat-square&labelColor=1A1030" alt="Agentic" />
+<img src="https://img.shields.io/badge/Domain-Agentic_Operations-00E5FF?style=flat-square&labelColor=1A1030" alt="Agentic" />
 
 <br><br>
 
-Intelligent Campus Operations platform engineered with a **genuine agentic architecture**. Unlike static chatbots that rely on keyword intent matching, CampVion autonomously handles multi-step operational workflows with dynamic replanning.
+Intelligent Campus Operations platform engineered with a **genuine agentic architecture**. Replaces static chatbots with autonomous multi-step workflow execution, API interactions, dynamic replanning, and human approval gates.
 
-- **Stack:** TypeScript &bull; Node.js &bull; Agentic Tool Orchestration &bull; Execution Tracing
-- **Key Contribution:** Implemented autonomous goal decomposition, runtime tool failure recovery, and strict human-in-the-loop approval gates for sensitive operations.
+- **Stack:** Next.js &bull; Python &bull; FastAPI &bull; SQLite &bull; Execution Tracing
+- **Key Contribution:** Implemented autonomous goal decomposition, runtime tool failure recovery, and strict human-in-the-loop approval gates.
 - **Repository:** [`debajit-ai/CampVion`](https://github.com/debajit-ai/CampVion)
 
 </td>
@@ -274,6 +302,38 @@ Smart EV parking and charging management platform designed and shipped end-to-en
 </td>
 </tr>
 </table>
+
+---
+
+## 📅 FOUNDER DEVELOPMENT TIMELINE
+
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ // CHRONOLOGICAL ENGINEERING MILESTONES & PLATFORM EVOLUTION                           │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                        │
+│  2025  FOUNDATIONAL SYSTEMS & RESEARCH                                                 │
+│        • Rigorous algorithmic fundamentals & systems programming (Python, C/C++, Java) │
+│        • Theoretical & applied machine learning foundations (PyTorch, TensorFlow)     │
+│        • Shipped SmartParkEV in a 24-hour hackathon sprint (Real-time telemetry)       │
+│        • Attained Google Foundations of AI & ML Certification                          │
+│                                                                                        │
+│  2026  VENTURE INCEPTION & SOVEREIGN PLATFORM BUILDS                                   │
+│        • Founded Singularity Horizon Technologies Pvt. Ltd.                            │
+│        • Architected ORION HELIX AI flagship platform & public showcase repo           │
+│        • Shipped ORION HELIX Chat Application (Node.js, Express, Socket.io, MySQL)     │
+│        • Engineered CampVion (Project 55) human-in-the-loop agentic workflow prototype │
+│        • Developed BLACK-WEB personal AI OS with cyber-operator telemetry interface   │
+│        • Engineered Singularity Horizon 3D cinematic digital identity with GLSL shaders│
+│        • Matriculated B.Tech CSE (AI & ML) at Lovely Professional University ('29)     │
+│                                                                                        │
+│  2027+ HORIZON SCALE & AUTONOMOUS ORCHESTRATION                                        │
+│        • ORION HELIX multi-session persistent vector memory engine                     │
+│        • Synchronous multimodal streaming intelligence (Audio + Vision + Text)         │
+│        • Decentralized autonomous agent orchestration loops & consensus models         │
+│                                                                                        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
