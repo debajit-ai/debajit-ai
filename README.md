@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:58a6ff&height=210&section=header&text=DEBAJIT%20GOSWAMI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Debajit Goswami" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0714,45:2E1065,100:D4AF37&height=210&section=header&text=DEBAJIT%20GOSWAMI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Debajit Goswami" />
 
-<h2>Founder &amp; CEO — Singularity Horizon Technologies Pvt. Ltd.</h2>
+<h3>Founder &amp; CEO — Singularity Horizon Technologies Pvt. Ltd.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Startup+Founder;Agentic+AI+%7C+AI+Infrastructure+%7C+Multimodal;Autonomous+Systems+%7C+Backend+Engineering;Distributed+Systems+%7C+Human-AI+Collaboration" alt="Typing animation" />
-          
-<br>
-
-<img src="https://img.shields.io/badge/FOUNDER_%26_CEO-Singularity_Horizon_Technologies_Pvt._Ltd.-0d1117?style=for-the-badge&labelColor=0a1628&color=58a6ff" alt="Founder & CEO" />
-<img src="https://img.shields.io/badge/BUILDING-ORION_HELIX_AI-0d1117?style=for-the-badge&labelColor=1a0a2e&color=6e40c9" alt="ORION HELIX AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Building+ORION+HELIX+AI;AI+Systems+Engineer+%26+Startup+Founder;Agentic+AI+%7C+AI+Infrastructure+%7C+Multimodal;Autonomous+Systems+%7C+Backend+Engineering;Distributed+Systems+%7C+Human-AI+Collaboration" alt="Typing animation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech_CSE_AI_%26_ML-Lovely_Professional_University-0d1117?style=for-the-badge&labelColor=161b22&color=238636" alt="LPU" />
-<img src="https://img.shields.io/badge/Class_of-2029-0d1117?style=for-the-badge&labelColor=161b22&color=238636" alt="2029" />
-<img src="https://img.shields.io/badge/Punjab-India-0d1117?style=for-the-badge&labelColor=161b22&color=da3633" alt="India" />
+<img src="https://img.shields.io/badge/FOUNDER_%26_CEO-Singularity_Horizon_Technologies_Pvt._Ltd.-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Founder & CEO" />
+<img src="https://img.shields.io/badge/BUILDING-ORION_HELIX_AI-0B0714?style=for-the-badge&labelColor=1A1030&color=7C3AED" alt="ORION HELIX AI" />
+
+<br>
+
+<img src="https://img.shields.io/badge/B.Tech_CSE_AI_%26_ML-Lovely_Professional_University-0B0714?style=for-the-badge&labelColor=140D24&color=5B21B6" alt="LPU" />
+<img src="https://img.shields.io/badge/Class_of-2029-0B0714?style=for-the-badge&labelColor=140D24&color=5B21B6" alt="2029" />
+<img src="https://img.shields.io/badge/Punjab-India-0B0714?style=for-the-badge&labelColor=140D24&color=9F1239" alt="India" />
 
 <br><br>
 
-<a href="https://github.com/debajit-ai"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/debajit-goswami-363a8b317/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://x.com/debajit_go60813"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/debajit-ai/orion-helix-showcase"><img src="https://img.shields.io/badge/ORION_HELIX_AI-161b22?style=for-the-badge&logo=cachet&logoColor=6e40c9" alt="ORION HELIX AI" /></a>
-<a href="https://github.com/SingularityHorizon"><img src="https://img.shields.io/badge/Singularity_Horizon-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Singularity Horizon" /></a>
-<a href="mailto:debajit.singularity@proton.me"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=protonmail&logoColor=6d4aff" alt="Email" /></a>
+<a href="https://github.com/debajit-ai"><img src="https://img.shields.io/badge/GitHub-140D24?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/debajit-goswami-363a8b317/"><img src="https://img.shields.io/badge/LinkedIn-140D24?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
+<a href="https://x.com/debajit_go60813"><img src="https://img.shields.io/badge/X-140D24?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X" /></a>
+<a href="https://github.com/debajit-ai/orion-helix-showcase"><img src="https://img.shields.io/badge/ORION_HELIX_AI-140D24?style=for-the-badge&logo=cachet&logoColor=8B5CF6" alt="ORION HELIX AI" /></a>
+<a href="https://github.com/SingularityHorizon"><img src="https://img.shields.io/badge/Singularity_Horizon-140D24?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Singularity Horizon" /></a>
+<a href="mailto:debajit.singularity@proton.me"><img src="https://img.shields.io/badge/Email-140D24?style=for-the-badge&logo=protonmail&logoColor=8B5CF6" alt="Email" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=debajit-ai&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=debajit-ai&label=PROFILE+VIEWS&color=D4AF37&labelColor=1A1030&style=for-the-badge" alt="Profile views" />
 
 <br><br>
 
@@ -41,47 +41,47 @@
 ## ◈ SYSTEM IDENTITY
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM IDENTITY                                                             │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  > whoami                                                                    │
-│  Debajit Goswami                                                             │
-│                                                                              │
-│  > role                                                                      │
-│  Founder & CEO                                                               │
-│  Singularity Horizon Technologies Pvt. Ltd.                                  │
-│                                                                              │
-│  > building                                                                  │
-│  ORION HELIX AI      — autonomous AI platform                                │
-│  BLACK-WEB           — personal AI operating system (ORION Core)             │
-│  NEXORA              — in active development                                 │
-│  Singularity Horizon — cinematic 3D company website                          │
-│                                                                              │
-│  > focus                                                                     │
-│  AI Agents  ·  AI Infrastructure  ·  Memory Systems                          │ 
-│  Multimodal Intelligence  ·  Backend Engineering                             │
-│  Autonomous Systems  ·  Real-Time  ·  Distributed Systems                    │
-│  Human-AI Collaboration  ·  Agentic Workflows                                │
-│                                                                              │
-│  > education                                                                 │
-│  B.Tech CSE (AI & ML)                                                        |
-│  Lovely Professional University  ·  2025 – 2029                              │
-│                                                                              │
-│  > workstation                                                               │
-│  Acer Nitro V15  ·  AMD Ryzen 5 6000  ·  NVIDIA RTX 3050  ·  16 GB RAM       │
-│                                                                              │
-│  > philosophy                                                                │
-│  Systems over demos.                                                         │
-│  Build in public. Label things honestly.                                     │
-│  Shipped is shipped. Planned is planned.                                     │
-│                                                                              │
-│  > status                                                                    │
-│  ● Founder-led solo technical build                                          │
-│  ● B.Tech AI & ML undergraduate, class of 2029                               │
-│  ● Night code. Caffeine. Build.                                              │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM IDENTITY                                                            │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│ > whoami                                                                   │
+│ Debajit Goswami                                                            │
+│                                                                            │
+│ > role                                                                     │
+│ Founder & CEO                                                              │
+│ Singularity Horizon Technologies Pvt. Ltd.                                 │
+│                                                                            │
+│ > building                                                                 │
+│ ORION HELIX AI       - flagship AI platform                                │
+│ BLACK-WEB            - personal AI operating system (ORION Core)           │
+│ NEXORA               - in active development                               │
+│ Singularity Horizon  - cinematic 3D company website                        │
+│                                                                            │
+│ > focus                                                                    │
+│ AI Agents · AI Infrastructure · Memory Systems                             │
+│ Multimodal Intelligence · Backend Engineering                              │
+│ Autonomous Systems · Real-Time · Distributed Systems                       │
+│ Human-AI Collaboration · Agentic Workflows                                 │
+│                                                                            │
+│ > education                                                                │
+│ B.Tech CSE (AI & ML)                                                       │
+│ Lovely Professional University · 2025 - 2029                               │
+│                                                                            │
+│ > workstation                                                              │
+│ Acer Nitro V15 · AMD Ryzen 5 6000 · NVIDIA RTX 3050 · 16 GB RAM            │
+│                                                                            │
+│ > philosophy                                                               │
+│ Systems over demos.                                                        │
+│ Build in public. Label things honestly.                                    │
+│ Shipped is shipped. Planned is planned.                                    │
+│                                                                            │
+│ > status                                                                   │
+│ ● Founder-led solo technical build                                         │
+│ ● B.Tech AI & ML undergraduate, class of 2029                              │
+│ ● Night code. Caffeine. Build.                                             │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SINGULARITY_HORIZON_TECHNOLOGIES_PVT._LTD.-0d1117?style=for-the-badge&labelColor=0a1628&color=58a6ff" alt="Singularity Horizon" />
+<img src="https://img.shields.io/badge/SINGULARITY_HORIZON_TECHNOLOGIES_PVT._LTD.-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Singularity Horizon" />
 
 </div>
 
@@ -103,40 +103,39 @@ The company's core engineering mission: build **practical, reliable AI infrastru
 <br>
 
 ```text
-╔═══════════════════════════════════════════════════════════════════════════╗
-║          SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.                       ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║   DEBAJIT GOSWAMI — Founder & CEO                                         ║
-║            │                                                              ║
-║            ▼                                                              ║
-║   SINGULARITY HORIZON TECHNOLOGIES                                        ║
-║            │                                                              ║
-║     ┌──────┴──────┬──────────────┬─────────────────┐                      ║
-║     │             │              │                 │                      ║
-║  PRIMARY       SECONDARY      SYSTEMS           RESEARCH                  ║
-║  PLATFORM      PLATFORM     EXPERIMENTS       & ARCHITECTURE              ║
-║     │             │              │                 │                      ║
-║     ▼             ▼              ▼                 ▼                      ║
-║ ORION HELIX    BLACK-WEB       NEXORA           Autonomous                ║
-║    AI           Personal     In Active           Systems                  ║
-║  Flagship        AI OS       Development        Concepts                  ║
-║  Platform        │                                                        ║
-║     │            ├── React / Vite / Framer Motion                         ║
-║     ├── AI Agents│── FastAPI / PostgreSQL                                 ║
-║     ├── Memory   └── ORION Core (AI backend)                              ║
-║     ├── Multimodal                                                        ║
-║     ├── Backend Infrastructure                                            ║
-║     └── Human-AI Collaboration                                            ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║ SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.                           ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║ DEBAJIT GOSWAMI · Founder & CEO                                      ║
+║         │                                                            ║
+║         ▼                                                            ║
+║ SINGULARITY HORIZON TECHNOLOGIES                                     ║
+║         │                                                            ║
+║         ├── PRIMARY PLATFORM ───── ORION HELIX AI (flagship)         ║
+║         │       ├── AI Agents                                        ║
+║         │       ├── Memory                                           ║
+║         │       ├── Multimodal                                       ║
+║         │       ├── Backend Infrastructure                           ║
+║         │       └── Human-AI Collaboration                           ║
+║         │                                                            ║
+║         ├── SECONDARY PLATFORM ─── BLACK-WEB (personal AI OS)        ║
+║         │       ├── React / Vite / Framer Motion                     ║
+║         │       ├── FastAPI / PostgreSQL                             ║
+║         │       └── ORION Core (AI backend)                          ║
+║         │                                                            ║
+║         ├── SYSTEMS EXPERIMENTS ── NEXORA (in active development)    ║
+║         │                                                            ║
+║         └── RESEARCH & ARCHITECTURE ── Autonomous Systems Concepts   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Actively_Building-161b22?style=flat-square&labelColor=0d1117&color=238636" alt="Active" />
-<img src="https://img.shields.io/badge/Mode-Solo_Founder_Build-161b22?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Mode" />
-<img src="https://img.shields.io/badge/Founded-2026-161b22?style=flat-square&labelColor=0d1117&color=6e40c9" alt="Founded 2026" />
-<img src="https://img.shields.io/badge/Org-github.com%2FSingularityHorizon-161b22?style=flat-square&labelColor=0d1117&color=8b949e&logo=github&logoColor=white" alt="Org" />
+<img src="https://img.shields.io/badge/Status-Actively_Building-140D24?style=flat-square&labelColor=0B0714&color=D4AF37" alt="Active" />
+<img src="https://img.shields.io/badge/Mode-Solo_Founder_Build-140D24?style=flat-square&labelColor=0B0714&color=7C3AED" alt="Mode" />
+<img src="https://img.shields.io/badge/Founded-2026-140D24?style=flat-square&labelColor=0B0714&color=5B21B6" alt="Founded 2026" />
+<img src="https://img.shields.io/badge/Org-github.com%2FSingularityHorizon-140D24?style=flat-square&labelColor=0B0714&color=9CA3AF&logo=github&logoColor=white" alt="Org" />
 </div>
 
 ---
@@ -146,9 +145,9 @@ The company's core engineering mission: build **practical, reliable AI infrastru
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FLAGSHIP_PRODUCT-ORION_HELIX_AI-1a0a2e?style=for-the-badge&labelColor=1a0a2e&color=6e40c9" alt="Flagship" />
-<img src="https://img.shields.io/badge/Platform-Autonomous_AI_Infrastructure-0a1628?style=for-the-badge&labelColor=0a1628&color=58a6ff" alt="Platform" />
-<img src="https://img.shields.io/badge/Category-Agentic_AI_%7C_Memory_%7C_Multimodal-0d1117?style=for-the-badge&labelColor=161b22&color=238636" alt="Category" />
+<img src="https://img.shields.io/badge/FLAGSHIP_PRODUCT-ORION_HELIX_AI-1A1030?style=for-the-badge&labelColor=1A1030&color=7C3AED" alt="Flagship" />
+<img src="https://img.shields.io/badge/Platform-Autonomous_AI_Infrastructure-2E1065?style=for-the-badge&labelColor=2E1065&color=D4AF37" alt="Platform" />
+<img src="https://img.shields.io/badge/Category-Agentic_AI_%7C_Memory_%7C_Multimodal-0B0714?style=for-the-badge&labelColor=140D24&color=5B21B6" alt="Category" />
 
 </div>
 
@@ -186,52 +185,58 @@ These are solvable engineering problems. ORION HELIX AI is the system being buil
 <br>
 
 ```text
-                        ┌──────────────────────────────┐
-                        │             USER             │
-                        │   web · voice · API · CLI    │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │          INTERFACE           │
-                        │  Composer · Artifact Canvas  │
-                        │  Workspace · App Launcher    │
-                        │  Notification Center         │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │     AGENT ORCHESTRATION      │
-                        │  Task routing · Scheduling   │
-                        │  Agent lifecycle management  │
-                        │  Workflow coordination       │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │       REASONING / LLM        │
-                        │  Groq · Gemini · Local model │
-                        │  Multi-model routing layer   │
-                        │  Context window management   │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │            MEMORY            │
-                        │  Short-term session context  │
-                        │  Long-term persistent store  │
-                        │  Vector recall & embeddings  │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │        TOOLS / SERVICES      │
-                        │  External API calls          │
-                        │  System-level actions        │
-                        │  Agent capability registry   │
-                        └──────────────┬───────────────┘
-                                       │
-                        ┌──────────────▼───────────────┐
-                        │      DATA / INFRASTRUCTURE   │
-                        │  PostgreSQL · MySQL          │
-                        │  Vector databases            │
-                        │  Supabase auth layer         │
-                        └──────────────────────────────┘
+                    ┌────────────────────────────────┐
+                    │              USER              │
+                    │ web · voice · API · CLI        │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │           INTERFACE            │
+                    │ Composer · Artifact Canvas     │
+                    │ Workspace · App Launcher       │
+                    │ Notification Center            │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │      AGENT ORCHESTRATION       │
+                    │ Task routing · Scheduling      │
+                    │ Agent lifecycle management     │
+                    │ Workflow coordination          │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │        REASONING / LLM         │
+                    │ Groq · Gemini · Local model    │
+                    │ Multi-model routing layer      │
+                    │ Context window management      │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │             MEMORY             │
+                    │ Short-term session context     │
+                    │ Long-term persistent store     │
+                    │ Vector recall & embeddings     │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │        TOOLS / SERVICES        │
+                    │ External API calls             │
+                    │ System-level actions           │
+                    │ Agent capability registry      │
+                    └───────────────┬────────────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │     DATA / INFRASTRUCTURE      │
+                    │ PostgreSQL · MySQL             │
+                    │ Vector databases               │
+                    │ Supabase auth layer            │
+                    └────────────────────────────────┘
 ```
 
 This is the **design direction** — the system architecture ORION HELIX AI is being engineered toward. See the component status table for what is currently shipped vs. in development.
@@ -281,7 +286,7 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <div align="center">
 <a href="https://github.com/debajit-ai/orion-helix-showcase">
-<img src="https://img.shields.io/badge/Public_Showcase-orion--helix--showcase-161b22?style=for-the-badge&logo=github&logoColor=white" alt="ORION HELIX Showcase" />
+<img src="https://img.shields.io/badge/Public_Showcase-orion--helix--showcase-140D24?style=for-the-badge&logo=github&logoColor=D4AF37" alt="ORION HELIX Showcase" />
 </a>
 </div>
 
@@ -297,11 +302,11 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-Primary_AI_%26_Backend_Language-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-Type--Safe_Full--Stack_Engineering-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-Frontend_%26_Backend_Runtime-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C_%2F_C%2B%2B-Systems_Programming_%26_DSA-00599c?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" />
-<img src="https://img.shields.io/badge/Java-Object--Oriented_Programming-ed8b00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-Primary_AI_%26_Backend_Language-2E1065?style=flat-square&logo=python&logoColor=D4AF37&labelColor=1A1030" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-Type--Safe_Full--Stack_Engineering-2E1065?style=flat-square&logo=typescript&logoColor=D4AF37&labelColor=1A1030" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-Frontend_%26_Backend_Runtime-2E1065?style=flat-square&logo=javascript&logoColor=D4AF37&labelColor=1A1030" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C_%2F_C%2B%2B-Systems_Programming_%26_DSA-2E1065?style=flat-square&logo=cplusplus&logoColor=D4AF37&labelColor=1A1030" alt="C/C++" />
+<img src="https://img.shields.io/badge/Java-Object--Oriented_Programming-2E1065?style=flat-square&logo=openjdk&logoColor=D4AF37&labelColor=1A1030" alt="Java" />
 
 <br><br>
 
@@ -311,17 +316,17 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/PyTorch-Deep_Learning_Framework-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-ML_Infrastructure_%26_Training-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Transformers-Hugging_Face_Model_Hub-ffd21e?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/PyTorch-Deep_Learning_Framework-2E1065?style=flat-square&logo=pytorch&logoColor=D4AF37&labelColor=1A1030" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-ML_Infrastructure_%26_Training-2E1065?style=flat-square&logo=tensorflow&logoColor=D4AF37&labelColor=1A1030" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Transformers-Hugging_Face_Model_Hub-2E1065?style=flat-square&logo=huggingface&logoColor=D4AF37&labelColor=1A1030" alt="Transformers" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Groq-LLM_API_Integration-00a3e0?style=flat-square" alt="Groq" />
-<img src="https://img.shields.io/badge/Gemini-Google_LLM_Integration-4285f4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/AI_Agents-Agentic_Architecture_Design-6e40c9?style=flat-square" alt="AI Agents" />
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-238636?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/Vector_Databases-Embeddings_%26_Semantic_Search-58a6ff?style=flat-square" alt="Vector DBs" />
+<img src="https://img.shields.io/badge/Groq-LLM_API_Integration-2E1065?style=flat-square&labelColor=1A1030" alt="Groq" />
+<img src="https://img.shields.io/badge/Gemini-Google_LLM_Integration-2E1065?style=flat-square&logo=google&logoColor=D4AF37&labelColor=1A1030" alt="Gemini" />
+<img src="https://img.shields.io/badge/AI_Agents-Agentic_Architecture_Design-4C1D95?style=flat-square&labelColor=1A1030" alt="AI Agents" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4C1D95?style=flat-square&labelColor=1A1030" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector_Databases-Embeddings_%26_Semantic_Search-4C1D95?style=flat-square&labelColor=1A1030" alt="Vector DBs" />
 
 <br><br>
 
@@ -331,19 +336,19 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/React-Component_Architecture-61dafb?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-Full--Stack_React_Framework-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-Utility--First_Styling-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Three.js-3D_Graphics_Engine-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-3D_in_React_Ecosystem-61dafb?style=flat-square" alt="React Three Fiber" />
+<img src="https://img.shields.io/badge/React-Component_Architecture-2E1065?style=flat-square&logo=react&logoColor=D4AF37&labelColor=1A1030" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-Full--Stack_React_Framework-2E1065?style=flat-square&logo=nextdotjs&logoColor=D4AF37&labelColor=1A1030" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-Utility--First_Styling-2E1065?style=flat-square&logo=tailwindcss&logoColor=D4AF37&labelColor=1A1030" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Three.js-3D_Graphics_Engine-2E1065?style=flat-square&logo=threedotjs&logoColor=D4AF37&labelColor=1A1030" alt="Three.js" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-3D_in_React_Ecosystem-2E1065?style=flat-square&labelColor=1A1030" alt="React Three Fiber" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Framer_Motion-Fluid_UI_Animation-0055ff?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/GSAP-Advanced_Web_Animation-88ce02?style=flat-square" alt="GSAP" />
-<img src="https://img.shields.io/badge/Lenis-Smooth_Scroll_Engine-8b949e?style=flat-square" alt="Lenis" />
-<img src="https://img.shields.io/badge/GLSL_Shaders-Custom_WebGL_Programming-5586a4?style=flat-square" alt="GLSL" />
-<img src="https://img.shields.io/badge/Zustand-Lightweight_State_Management-8b949e?style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/Framer_Motion-Fluid_UI_Animation-2E1065?style=flat-square&logo=framer&logoColor=D4AF37&labelColor=1A1030" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-Advanced_Web_Animation-2E1065?style=flat-square&logo=greensock&logoColor=D4AF37&labelColor=1A1030" alt="GSAP" />
+<img src="https://img.shields.io/badge/Lenis-Smooth_Scroll_Engine-2E1065?style=flat-square&labelColor=1A1030" alt="Lenis" />
+<img src="https://img.shields.io/badge/GLSL_Shaders-Custom_WebGL_Programming-2E1065?style=flat-square&labelColor=1A1030" alt="GLSL" />
+<img src="https://img.shields.io/badge/Zustand-Lightweight_State_Management-2E1065?style=flat-square&labelColor=1A1030" alt="Zustand" />
 
 <br><br>
 
@@ -353,12 +358,12 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/Node.js-JavaScript_Server_Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-Minimal_Web_Framework-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-High--Performance_Python_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Socket.io-Real--Time_Bidirectional_Comms-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-<img src="https://img.shields.io/badge/Supabase-Backend--as--a--Service_%26_Auth-3ecf8e?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/REST_APIs-Service_Architecture_Design-8b949e?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Node.js-JavaScript_Server_Runtime-2E1065?style=flat-square&logo=nodedotjs&logoColor=D4AF37&labelColor=1A1030" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-Minimal_Web_Framework-2E1065?style=flat-square&logo=express&logoColor=D4AF37&labelColor=1A1030" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-High--Performance_Python_APIs-2E1065?style=flat-square&logo=fastapi&logoColor=D4AF37&labelColor=1A1030" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Socket.io-Real--Time_Bidirectional_Comms-2E1065?style=flat-square&logo=socketdotio&logoColor=D4AF37&labelColor=1A1030" alt="Socket.io" />
+<img src="https://img.shields.io/badge/Supabase-Backend--as--a--Service_%26_Auth-2E1065?style=flat-square&logo=supabase&logoColor=D4AF37&labelColor=1A1030" alt="Supabase" />
+<img src="https://img.shields.io/badge/REST_APIs-Service_Architecture_Design-2E1065?style=flat-square&labelColor=1A1030" alt="REST APIs" />
 
 <br><br>
 
@@ -368,10 +373,10 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/PostgreSQL-Primary_Relational_Database-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-Production_Database_Layer-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-Embedded_Lightweight_Storage-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Vector_Databases-Semantic_Search_%26_RAG_Layer-6e40c9?style=flat-square" alt="Vector DBs" />
+<img src="https://img.shields.io/badge/PostgreSQL-Primary_Relational_Database-2E1065?style=flat-square&logo=postgresql&logoColor=D4AF37&labelColor=1A1030" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-Production_Database_Layer-2E1065?style=flat-square&logo=mysql&logoColor=D4AF37&labelColor=1A1030" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-Embedded_Lightweight_Storage-2E1065?style=flat-square&logo=sqlite&logoColor=D4AF37&labelColor=1A1030" alt="SQLite" />
+<img src="https://img.shields.io/badge/Vector_Databases-Semantic_Search_%26_RAG_Layer-4C1D95?style=flat-square&labelColor=1A1030" alt="Vector DBs" />
 
 <br><br>
 
@@ -381,12 +386,12 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <br>
 
-<img src="https://img.shields.io/badge/Git-Distributed_Version_Control-f05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-Repository_Hosting_%26_Collaboration-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitHub_Actions-Automated_CI%2FCD_Workflows-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vercel-Frontend_Deployment_Platform-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/VS_Code-Primary_Development_IDE-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/WSL2-Linux_Kernel_on_Windows-fcc624?style=flat-square&logo=linux&logoColor=black" alt="WSL2" />
+<img src="https://img.shields.io/badge/Git-Distributed_Version_Control-2E1065?style=flat-square&logo=git&logoColor=D4AF37&labelColor=1A1030" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-Repository_Hosting_%26_Collaboration-2E1065?style=flat-square&logo=github&logoColor=D4AF37&labelColor=1A1030" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-Automated_CI%2FCD_Workflows-2E1065?style=flat-square&logo=githubactions&logoColor=D4AF37&labelColor=1A1030" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-Frontend_Deployment_Platform-2E1065?style=flat-square&logo=vercel&logoColor=D4AF37&labelColor=1A1030" alt="Vercel" />
+<img src="https://img.shields.io/badge/VS_Code-Primary_Development_IDE-2E1065?style=flat-square&logo=visualstudiocode&logoColor=D4AF37&labelColor=1A1030" alt="VS Code" />
+<img src="https://img.shields.io/badge/WSL2-Linux_Kernel_on_Windows-2E1065?style=flat-square&logo=linux&logoColor=D4AF37&labelColor=1A1030" alt="WSL2" />
 
 </div>
 
@@ -396,45 +401,43 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEVELOPMENT_MACHINE-Acer_Nitro_V15-0d1117?style=for-the-badge&labelColor=1a1a2e&color=76b900" alt="Acer Nitro V15" />
+<img src="https://img.shields.io/badge/DEVELOPMENT_MACHINE-Acer_Nitro_V15-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Acer Nitro V15" />
 
 </div>
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         ENGINEERING WORKSTATION                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   DEVICE         │  Acer Nitro V15                                           ║
-║   ───────────────┼──────────────────────────────────────────────────         ║
-║   CPU            │  AMD Ryzen 5 6000 Series                                  ║
-║   GPU            │  NVIDIA GeForce RTX 3050  (local AI compute)              ║
-║   MEMORY         │  16 GB DDR5 RAM                                           ║
-║   STORAGE        │  512 GB NVMe SSD                                          ║
-║   DISPLAY        │  165 Hz Full HD (1920 × 1080)                             ║
-║   ───────────────┼──────────────────────────────────────────────────         ║
-║   OS             │  Windows 11 + WSL2 (Ubuntu)                               ║
-║   PRIMARY IDE    │  Visual Studio Code                                       ║
-║   RUNTIME        │  Node.js · Python 3.x · FastAPI                           ║
-║   VERSION CTRL   │  Git / GitHub                                             ║
-║   DEPLOYMENT     │  Vercel                                                   ║
-║   AI COMPUTE     │  NVIDIA RTX 3050 — local GPU acceleration                 ║
-║   ───────────────┴──────────────────────────────────────────────────         ║
-║                                                                              ║
-║   "Night code. Caffeine. Build."                                             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║                        ENGINEERING WORKSTATION                         ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  DEVICE       │  Acer Nitro V15                                        ║
+║  CPU          │  AMD Ryzen 5 6000 Series                               ║
+║  GPU          │  NVIDIA GeForce RTX 3050 (local AI compute)            ║
+║  MEMORY       │  16 GB RAM                                             ║
+║  STORAGE      │  512 GB NVMe SSD                                       ║
+║  DISPLAY      │  165 Hz Full HD (1920 x 1080)                          ║
+║ ──────────────┼────────────────────────────────────────────────────────║
+║  OS           │  Windows 11 + WSL2 (Ubuntu)                            ║
+║  PRIMARY IDE  │  Visual Studio Code                                    ║
+║  RUNTIME      │  Node.js · Python 3.x · FastAPI                        ║
+║  VERSION CTRL │  Git / GitHub                                          ║
+║  DEPLOYMENT   │  Vercel                                                ║
+║  AI COMPUTE   │  NVIDIA RTX 3050 - local GPU acceleration              ║
+║                                                                        ║
+║                     "Night code. Caffeine. Build."                     ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 3050" />
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_6000_Series-ed1c24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 5 6000" />
-<img src="https://img.shields.io/badge/RAM-16_GB_DDR5-58a6ff?style=for-the-badge" alt="16GB RAM" />
-<img src="https://img.shields.io/badge/Display-165_Hz_FHD-6e40c9?style=for-the-badge" alt="165Hz Display" />
-<img src="https://img.shields.io/badge/Storage-512_GB_NVMe-238636?style=for-the-badge" alt="512GB SSD" />
+<img src="https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-2E1065?style=for-the-badge&logo=nvidia&logoColor=D4AF37&labelColor=1A1030" alt="NVIDIA RTX 3050" />
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_6000_Series-2E1065?style=for-the-badge&logo=amd&logoColor=D4AF37&labelColor=1A1030" alt="AMD Ryzen 5 6000" />
+<img src="https://img.shields.io/badge/RAM-16_GB-2E1065?style=for-the-badge&labelColor=1A1030" alt="16GB RAM" />
+<img src="https://img.shields.io/badge/Display-165_Hz_FHD-2E1065?style=for-the-badge&labelColor=1A1030" alt="165Hz Display" />
+<img src="https://img.shields.io/badge/Storage-512_GB_NVMe-2E1065?style=for-the-badge&labelColor=1A1030" alt="512GB SSD" />
 
 </div>
 
@@ -443,45 +446,43 @@ The chat application validated interface architecture, LLM routing, and basic se
 ## ⚡ CURRENTLY BUILDING
 
 <div align="center">
-<img src="https://img.shields.io/badge/BUILD_STATUS-ACTIVE-238636?style=for-the-badge" alt="Build Status Active" />
-<img src="https://img.shields.io/badge/Mode-Founder--Led_Solo_Build-58a6ff?style=for-the-badge" alt="Mode" />
+<img src="https://img.shields.io/badge/BUILD_STATUS-ACTIVE-D4AF37?style=for-the-badge&labelColor=1A1030" alt="Build Status Active" />
+<img src="https://img.shields.io/badge/Mode-Founder--Led_Solo_Build-7C3AED?style=for-the-badge&labelColor=1A1030" alt="Mode" />
 </div>
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          BUILD STATUS DASHBOARD                              ║
-╠════════════════════════════════════════════╦═════════════════════════════════╣
-║  PROJECT                                   ║  INDICATOR  │  STATUS           ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  ORION HELIX AI                            ║             │                   ║
-║  Agent infrastructure & backend systems    ║  ██████████████████░░░░         ║
-║                                            ║             │  ● ACTIVE         ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  SINGULARITY HORIZON — WEBSITE             ║             │                   ║
-║  Cinematic 3D company digital experience   ║  ████████████████░░░░░░         ║
-║                                            ║             │  ● ACTIVE         ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  BLACK-WEB                                 ║             │                   ║
-║  Personal AI operating system (ORION Core) ║  ████████████░░░░░░░░░░         ║
-║                                            ║             │  ◐ IN DEVELOPMEN ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  NEXORA                                    ║             │                   ║
-║  Under development — details evolving      ║  █████████░░░░░░░░░░░░          ║
-║                                            ║             │  ◐ IN DEVELOPMEN ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  ORION HELIX — Memory Engine               ║             │                   ║
-║  Long-term persistent memory layer         ║  ░░░░░░░░░░░░░░░░░░░░░          ║
-║                                            ║             │  ○ PLANNED        ║
-╠════════════════════════════════════════════╬═════════════╪═══════════════════╣
-║  ORION HELIX — Multimodal Layer            ║             │                   ║
-║  Voice · vision · unified intelligence     ║  ░░░░░░░░░░░░░░░░░░░░░          ║
-║                                            ║             │  ○ PLANNED        ║
-╚════════════════════════════════════════════╩═════════════╧═══════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                              BUILD STATUS DASHBOARD                              ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ ORION HELIX AI                                                                   ║
+║  Agent infrastructure & backend systems                                          ║
+║  ██████████████████░░░░   ● ACTIVE                                               ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ SINGULARITY HORIZON WEBSITE                                                      ║
+║  Cinematic 3D company digital experience                                         ║
+║  ████████████████░░░░░░   ● ACTIVE                                               ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ BLACK-WEB                                                                        ║
+║  Personal AI OS (ORION Core)                                                     ║
+║  ████████████░░░░░░░░░░   ◐ IN DEVELOPMENT                                       ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ NEXORA                                                                           ║
+║  Details evolving during development                                             ║
+║  █████████░░░░░░░░░░░░░   ◐ IN DEVELOPMENT                                       ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ ORION HELIX - MEMORY ENGINE                                                      ║
+║  Long-term persistent memory layer                                               ║
+║  ░░░░░░░░░░░░░░░░░░░░░░   ○ PLANNED                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║ ORION HELIX - MULTIMODAL LAYER                                                   ║
+║  Voice · vision · unified intelligence                                           ║
+║  ░░░░░░░░░░░░░░░░░░░░░░   ○ PLANNED                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 
-  ● ACTIVE    ◐ IN DEVELOPMENT    ○ PLANNED    ◆ EXPERIMENTAL
-  Progress bars are conceptual build indicators — not exact completion percentages.
+  ● ACTIVE    ◐ IN DEVELOPMENT    ○ PLANNED
+  Progress bars are conceptual build indicators, not exact completion percentages.
 ```
 
 ---
@@ -494,9 +495,9 @@ The chat application validated interface architecture, LLM routing, and basic se
 
 <h3>🧠 ORION HELIX AI — Showcase</h3>
 
-<img src="https://img.shields.io/badge/Status-ACTIVE-238636?style=flat-square" alt="Active" />
-<img src="https://img.shields.io/badge/Type-AI_Platform-6e40c9?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Visibility-Public_Docs-58a6ff?style=flat-square" alt="Public" />
+<img src="https://img.shields.io/badge/Status-ACTIVE-D4AF37?style=flat-square&labelColor=1A1030" alt="Active" />
+<img src="https://img.shields.io/badge/Type-AI_Platform-7C3AED?style=flat-square&labelColor=1A1030" alt="Type" />
+<img src="https://img.shields.io/badge/Visibility-Public_Docs-5B21B6?style=flat-square&labelColor=1A1030" alt="Public" />
 
 <br><br>
 
@@ -523,9 +524,9 @@ The public-facing architecture, roadmap, and design documentation repository for
 
 <h3>⬛ BLACK-WEB</h3>
 
-<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-58a6ff?style=flat-square" alt="In Development" />
-<img src="https://img.shields.io/badge/Type-Personal_AI_OS-6e40c9?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Visibility-Private-8b949e?style=flat-square" alt="Private" />
+<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7C3AED?style=flat-square&labelColor=1A1030" alt="In Development" />
+<img src="https://img.shields.io/badge/Type-Personal_AI_OS-5B21B6?style=flat-square&labelColor=1A1030" alt="Type" />
+<img src="https://img.shields.io/badge/Visibility-Private-6B7280?style=flat-square&labelColor=1A1030" alt="Private" />
 
 <br><br>
 
@@ -554,8 +555,8 @@ A personal AI operating system powered by ORION Core. A three-column cyber-ops s
 
 <h3>◈ NEXORA</h3>
 
-<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-58a6ff?style=flat-square" alt="In Development" />
-<img src="https://img.shields.io/badge/Visibility-Private-8b949e?style=flat-square" alt="Private" />
+<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7C3AED?style=flat-square&labelColor=1A1030" alt="In Development" />
+<img src="https://img.shields.io/badge/Visibility-Private-6B7280?style=flat-square&labelColor=1A1030" alt="Private" />
 
 <br><br>
 
@@ -578,9 +579,9 @@ Currently under active development under Singularity Horizon. Details and scope 
 
 <h3>🌐 Singularity Horizon — Website</h3>
 
-<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-58a6ff?style=flat-square" alt="In Development" />
-<img src="https://img.shields.io/badge/Type-Company_Digital_Identity-6e40c9?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Visibility-Private-8b949e?style=flat-square" alt="Private" />
+<img src="https://img.shields.io/badge/Status-IN_DEVELOPMENT-7C3AED?style=flat-square&labelColor=1A1030" alt="In Development" />
+<img src="https://img.shields.io/badge/Type-Company_Digital_Identity-5B21B6?style=flat-square&labelColor=1A1030" alt="Type" />
+<img src="https://img.shields.io/badge/Visibility-Private-6B7280?style=flat-square&labelColor=1A1030" alt="Private" />
 
 <br><br>
 
@@ -588,14 +589,14 @@ The official digital identity layer for Singularity Horizon — built as a cinem
 
 <br>
 
-<b>Stack:</b> Next.js · React · TypeScript · Three.js · React Three Fiber · Framer Motion · Zustand · GLSL
+<b>Stack:</b> React · Vite · TypeScript · Three.js · React Three Fiber · Framer Motion · GSAP · Tailwind · Zustand · GLSL
 
 <br>
 
 **Architecture highlights:**
 - Manager pattern with Zustand store
 - GLSL shader-based visual rendering
-- Scroll-driven cinematic hero
+- Scroll-driven cinematic chapters
 - One verified file at a time build discipline
 
 <br>
@@ -609,9 +610,9 @@ The official digital identity layer for Singularity Horizon — built as a cinem
 
 <h3>⚡ Hacking Portfolio</h3>
 
-<img src="https://img.shields.io/badge/Status-SHIPPED-6e40c9?style=flat-square" alt="Shipped" />
-<img src="https://img.shields.io/badge/Type-Developer_Portfolio-238636?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Live-hacking--portfolio.vercel.app-58a6ff?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/Status-SHIPPED-D4AF37?style=flat-square&labelColor=1A1030" alt="Shipped" />
+<img src="https://img.shields.io/badge/Type-Developer_Portfolio-5B21B6?style=flat-square&labelColor=1A1030" alt="Type" />
+<img src="https://img.shields.io/badge/Live-hacking--portfolio.vercel.app-7C3AED?style=flat-square&labelColor=1A1030" alt="Live" />
 
 <br><br>
 
@@ -640,9 +641,9 @@ A cinematic AAA cyberpunk developer portfolio featuring real-time 3D environment
 
 <h3>🔋 SmartParkEV</h3>
 
-<img src="https://img.shields.io/badge/Status-SHIPPED-6e40c9?style=flat-square" alt="Shipped" />
-<img src="https://img.shields.io/badge/Type-Hackathon_Build-238636?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Built_in-24_Hours-da3633?style=flat-square" alt="24 Hours" />
+<img src="https://img.shields.io/badge/Status-SHIPPED-D4AF37?style=flat-square&labelColor=1A1030" alt="Shipped" />
+<img src="https://img.shields.io/badge/Type-Hackathon_Build-5B21B6?style=flat-square&labelColor=1A1030" alt="Type" />
+<img src="https://img.shields.io/badge/Built_in-24_Hours-9F1239?style=flat-square&labelColor=1A1030" alt="24 Hours" />
 
 <br><br>
 
@@ -781,36 +782,37 @@ HTML · CSS — web foundation
 ## 🗺 DEVELOPMENT ROADMAP
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║               ORION HELIX AI + SINGULARITY HORIZON — ROADMAP                 ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  ██ NOW — ACTIVE BUILD                                                       ║
-║  ──────────────────────────────────────────────────────────────              ║
-║  ● ORION HELIX AI — agent infrastructure & backend systems                   ║
-║  ● ORION HELIX AI — web app (workspace · launcher · auth)                    ║
-║  ● Singularity Horizon website — cinematic 3D experience                     ║
-║  ● BLACK-WEB — personal AI operating system development                      ║
-║  ● NEXORA — in active development                                            ║
-║                                                                              ║
-║  ▒▒ NEXT — PLANNED                                                           ║
-║  ──────────────────────────────────────────────────────────────              ║
-║  ○ ORION HELIX AI — persistent memory engine                                 ║
-║  ○ ORION HELIX AI — long-term context & vector recall layer                  ║
-║  ○ Multimodal intelligence (voice · vision pipeline)                         ║
-║  ○ Stronger agent orchestration & task routing                               ║
-║  ○ Expanded LLM integration & multi-model framework                          ║
-║                                                                              ║
-║  ░░ FUTURE — CONCEPTUAL DIRECTION                                            ║
-║  ──────────────────────────────────────────────────────────────              ║
-║  ◌ Autonomous task execution engine                                          ║
-║  ◌ Cloud infrastructure & scalable production deployment                     ║
-║  ◌ Public-facing API gateway                                                 ║
-║  ◌ Full multimodal AI pipeline (voice + vision + text unified)               ║
-║  ◌ ORION HELIX AI as a composable developer platform                         ║
-║                                                                              ║
-║  LEGEND:  ● Active  ○ Planned  ◌ Conceptual / Future                         ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║ ORION HELIX AI + SINGULARITY HORIZON - ROADMAP                         ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║ ██ NOW - ACTIVE BUILD                                                  ║
+║ ──────────────────────────────────────────────────────                 ║
+║ ● ORION HELIX AI - agent infrastructure & backend systems              ║
+║ ● ORION HELIX AI - web app (workspace · launcher · auth)               ║
+║ ● Singularity Horizon website - cinematic 3D experience                ║
+║ ● BLACK-WEB - personal AI operating system development                 ║
+║ ● NEXORA - in active development                                       ║
+║                                                                        ║
+║ ▒▒ NEXT - PLANNED                                                      ║
+║ ──────────────────────────────────────────────────────                 ║
+║ ○ ORION HELIX AI - persistent memory engine                            ║
+║ ○ ORION HELIX AI - long-term context & vector recall layer             ║
+║ ○ Multimodal intelligence (voice · vision pipeline)                    ║
+║ ○ Stronger agent orchestration & task routing                          ║
+║ ○ Expanded LLM integration & multi-model framework                     ║
+║                                                                        ║
+║ ░░ FUTURE - CONCEPTUAL DIRECTION                                       ║
+║ ──────────────────────────────────────────────────────                 ║
+║ ◌ Autonomous task execution engine                                     ║
+║ ◌ Cloud infrastructure & scalable production deployment                ║
+║ ◌ Public-facing API gateway                                            ║
+║ ◌ Full multimodal AI pipeline (voice + vision + text unified)          ║
+║ ◌ ORION HELIX AI as a composable developer platform                    ║
+║                                                                        ║
+║ LEGEND:  ● Active   ○ Planned   ◌ Conceptual / Future                  ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -818,7 +820,7 @@ HTML · CSS — web foundation
 ## 🧭 ENGINEERING PHILOSOPHY
 
 <div align="center">
-<img src="https://img.shields.io/badge/Philosophy-Systems_over_Demos-0d1117?style=for-the-badge&labelColor=1a0a2e&color=6e40c9" alt="Systems over Demos" />
+<img src="https://img.shields.io/badge/Philosophy-Systems_over_Demos-0B0714?style=for-the-badge&labelColor=1A1030&color=D4AF37" alt="Systems over Demos" />
 </div>
 
 <br>
@@ -861,10 +863,10 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
              Singularity Horizon Technologies Pvt. Ltd. — founded
              ORION HELIX AI — design · architecture · initial build
              ORION HELIX AI chat app (Node.js · Socket.io · MySQL · Groq · Gemini)
-             ORION HELIX AI web app (workspace switching · `OrionHelixOS` class)
+             ORION HELIX AI web app (workspace switching · OrionHelixOS class)
              BLACK-WEB — personal AI OS development begins (React · FastAPI · PG)
              NEXORA — development begins
-             Hacking Portfolio (Next.js · Three.js · RTF · GSAP) — shipped
+             Hacking Portfolio (Next.js · Three.js · R3F · GSAP) — shipped
              Singularity Horizon cinematic 3D website — in development
              ATS CV · Career profile · 4-year AI/ML Gantt roadmap created
 
@@ -889,8 +891,8 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Achievement-Pull_Shark-161b22?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Pull Shark" />
-<img src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-161b22?style=flat-square&labelColor=0d1117&color=6e40c9" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/Achievement-Pull_Shark-140D24?style=flat-square&labelColor=0B0714&color=D4AF37" alt="Pull Shark" />
+<img src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-140D24?style=flat-square&labelColor=0B0714&color=7C3AED" alt="Pair Extraordinaire" />
 
 </div>
 
@@ -900,9 +902,9 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Certified-Cyber_Security-161b22?style=for-the-badge&labelColor=0d1117&color=da3633&logo=shield&logoColor=white" alt="Cyber Security" />
-<img src="https://img.shields.io/badge/Certified-Data_Science-161b22?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=databricks&logoColor=white" alt="Data Science" />
-<img src="https://img.shields.io/badge/Certified-Google_Foundations_of_AI_%26_ML-161b22?style=for-the-badge&labelColor=0d1117&color=4285f4&logo=google&logoColor=white" alt="Google AI & ML" />
+<img src="https://img.shields.io/badge/Certified-Cyber_Security-140D24?style=for-the-badge&labelColor=0B0714&color=9F1239" alt="Cyber Security" />
+<img src="https://img.shields.io/badge/Certified-Data_Science-140D24?style=for-the-badge&labelColor=0B0714&color=7C3AED&logo=databricks&logoColor=white" alt="Data Science" />
+<img src="https://img.shields.io/badge/Certified-Google_Foundations_of_AI_%26_ML-140D24?style=for-the-badge&labelColor=0B0714&color=D4AF37&logo=google&logoColor=white" alt="Google AI & ML" />
 
 </div>
 
@@ -922,21 +924,21 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
 
 **─── SYSTEM ACTIVITY ───**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debajit-ai&theme=github_dark" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=debajit-ai&theme=tokyonight&hide_border=true" alt="Streak Stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debajit-ai&theme=dracula" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=debajit-ai&hide_border=true&background=0B0714&ring=D4AF37&fire=F5D76E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=8B5CF6&dates=9CA3AF" alt="Streak Stats" height="165" />
 
 <br>
 
-**─── CONTRIBUTION MATRIX ───**
+**─── CONTRIBUTION GRAPH ───**
 
-<img width="100%" src="./profile/metrics.svg" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=debajit-ai&bg_color=0B0714&color=D4AF37&line=7C3AED&point=F5D76E&area=true&area_color=7C3AED&hide_border=true" alt="Contribution Graph" />
 
 <br>
 
 **─── LANGUAGE DISTRIBUTION ───**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debajit-ai&theme=github_dark" alt="Language by Repos" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debajit-ai&theme=github_dark" alt="Language by Commits" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debajit-ai&theme=dracula" alt="Language by Repos" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debajit-ai&theme=dracula" alt="Language by Commits" height="165" />
 
 <br>
 
@@ -953,27 +955,27 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
 <div align="center">
 
 <a href="https://github.com/debajit-ai">
-<img src="https://img.shields.io/badge/GitHub-debajit--ai-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-debajit--ai-140D24?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/debajit-goswami-363a8b317/">
-<img src="https://img.shields.io/badge/LinkedIn-Debajit_Goswami-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Debajit_Goswami-140D24?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
 
 <a href="https://x.com/debajit_go60813">
-<img src="https://img.shields.io/badge/X-debajit__go60813-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/X-debajit__go60813-140D24?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X" />
 </a>
 
 <a href="https://github.com/debajit-ai/orion-helix-showcase">
-<img src="https://img.shields.io/badge/ORION_HELIX_AI-Public_Showcase-6e40c9?style=for-the-badge&logo=cachet&logoColor=white" alt="ORION HELIX AI" />
+<img src="https://img.shields.io/badge/ORION_HELIX_AI-Public_Showcase-5B21B6?style=for-the-badge&logo=cachet&logoColor=white" alt="ORION HELIX AI" />
 </a>
 
 <a href="https://github.com/SingularityHorizon">
-<img src="https://img.shields.io/badge/Singularity_Horizon-GitHub_Org-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Singularity Horizon" />
+<img src="https://img.shields.io/badge/Singularity_Horizon-GitHub_Org-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="Singularity Horizon" />
 </a>
 
 <a href="mailto:debajit.singularity@proton.me">
-<img src="https://img.shields.io/badge/Email-debajit.singularity%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-debajit.singularity%40proton.me-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -982,7 +984,7 @@ This applies to every project under Singularity Horizon, including ORION HELIX A
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:6e40c9,100:0d1117&height=120&section=footer&text=BUILDING+THE+INTELLIGENCE+LAYER+OF+TOMORROW&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:2E1065,100:0B0714&height=120&section=footer&text=BUILDING+THE+INTELLIGENCE+LAYER+OF+TOMORROW&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Footer" />
 
 <br>
 
@@ -995,6 +997,6 @@ Building ORION HELIX AI.
 Building the intelligence infrastructure of tomorrow.
 ```
 
-<img src="https://img.shields.io/badge/Singularity_Horizon_Technologies_Pvt._Ltd.-2026-0d1117?style=flat-square&labelColor=0a1628&color=8b949e" alt="Copyright" />
+<img src="https://img.shields.io/badge/Singularity_Horizon_Technologies_Pvt._Ltd.-2026-0B0714?style=flat-square&labelColor=1A1030&color=9CA3AF" alt="Copyright" />
 
 </div>
