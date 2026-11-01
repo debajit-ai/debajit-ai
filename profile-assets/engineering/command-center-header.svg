@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%" height="100%">
+  <defs>
+    <linearGradient id="engBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050308"/>
+      <stop offset="25%" stop-color="#160D2B"/>
+      <stop offset="75%" stop-color="#0E0818"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+    <linearGradient id="engBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00B7FF" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#D4AF37" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="90" fill="url(#engBg)"/>
+  <rect x="20" y="10" width="1160" height="70" rx="6" fill="none" stroke="#2E1065" stroke-width="1.2"/>
+  
+  <!-- Corner Brackets -->
+  <path d="M 16 26 L 16 8 L 34 8" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1166 8 L 1184 8 L 1184 26" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 16 64 L 16 82 L 34 82" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1166 82 L 1184 82 L 1184 64" fill="none" stroke="#D4AF37" stroke-width="2"/>
+
+  <!-- Telemetry Title -->
+  <g transform="translate(45, 42)">
+    <circle cx="8" cy="8" r="5" fill="#00B7FF">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="12" font-family="system-ui, sans-serif" font-size="14" font-weight="900" letter-spacing="3px" fill="#FFFFFF">
+      ENGINEERING COMMAND CENTER <tspan fill="#D4AF37">//</tspan> LIVE REPOSITORY TELEMETRY
+    </text>
+    <text x="24" y="27" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1px" fill="#9CA3AF">
+      AUTOMATED PIPELINES &#8226; 3D CONTRIBUTION TIMELINE &#8226; CONTINUOUS INTEGRATION
+    </text>
+  </g>
+
+  <!-- Live Status Chips (Right side) -->
+  <g transform="translate(860, 32)">
+    <rect width="135" height="26" rx="4" fill="#0D0817" stroke="#00E5FF" stroke-width="1"/>
+    <circle cx="14" cy="13" r="3.5" fill="#00E5FF"/>
+    <text x="26" y="17" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">CRON: ACTIVE (18:00)</text>
+
+    <rect x="150" y="0" width="135" height="26" rx="4" fill="#0D0817" stroke="#D4AF37" stroke-width="1"/>
+    <circle cx="164" cy="13" r="3.5" fill="#D4AF37"/>
+    <text x="176" y="17" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#D4AF37">TELEMETRY: REAL</text>
+  </g>
+</svg>
