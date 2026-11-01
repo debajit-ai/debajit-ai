@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="35%" stop-color="#0B0714"/>
+      <stop offset="70%" stop-color="#160D2B"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+
+    <radialGradient id="footerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="60%" stop-color="#D4AF37" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="goldBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#D4AF37" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#00B7FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="fGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="fGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#2E1065" stroke-width="0.5" stroke-opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#footerBg)"/>
+  <rect width="1200" height="200" fill="url(#fGrid)"/>
+  <rect x="250" y="10" width="700" height="180" fill="url(#footerGlow)"/>
+
+  <!-- Outer Frame -->
+  <rect x="20" y="15" width="1160" height="170" rx="6" fill="none" stroke="#2E1065" stroke-width="1.2"/>
+  <rect x="22" y="17" width="1156" height="166" rx="5" fill="none" stroke="#7C3AED" stroke-width="0.4" stroke-opacity="0.4"/>
+
+  <!-- Corner Markers -->
+  <path d="M 16 35 L 16 12 L 39 12" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1161 12 L 1184 12 L 1184 35" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 16 165 L 16 188 L 39 188" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1161 188 L 1184 188 L 1184 165" fill="none" stroke="#D4AF37" stroke-width="2"/>
+
+  <!-- Energy Line -->
+  <line x1="150" y1="42" x2="1050" y2="42" stroke="url(#goldBeam)" stroke-width="1.5"/>
+  <circle cx="600" cy="42" r="3.5" fill="#D4AF37">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Core Slogan -->
+  <text x="600" y="88" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="900" letter-spacing="8px" fill="#D4AF37" filter="url(#fGlow)">
+    SYSTEMS OVER DEMOS.
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="122" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5px" fill="#FFFFFF">
+    DEBAJIT GOSWAMI &#8226; FOUNDER &amp; CEO
+  </text>
+  
+  <text x="600" y="144" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" letter-spacing="2px" fill="#A78BFA">
+    SINGULARITY HORIZON TECHNOLOGIES PVT. LTD.
+  </text>
+
+  <!-- Bottom Telemetry -->
+  <g font-family="ui-monospace, monospace" font-size="9" letter-spacing="1px" fill="#6B7280">
+    <text x="45" y="168">MISSION: SOVEREIGN AI INFRASTRUCTURE</text>
+    <text x="1155" y="168" text-anchor="end">&#169; 2026 SINGULARITY HORIZON TECHNOLOGIES. ALL RIGHTS RESERVED.</text>
+  </g>
+</svg>

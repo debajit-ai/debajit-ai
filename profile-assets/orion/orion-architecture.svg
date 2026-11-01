@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="100%" height="100%">
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07040C"/>
+      <stop offset="50%" stop-color="#0E0818"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </linearGradient>
+
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5D76E"/>
+      <stop offset="100%" stop-color="#D4AF37"/>
+    </linearGradient>
+
+    <linearGradient id="boxBgImp" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141E1C"/>
+      <stop offset="100%" stop-color="#0A1110"/>
+    </linearGradient>
+
+    <linearGradient id="boxBgDev" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E1233"/>
+      <stop offset="100%" stop-color="#100A1C"/>
+    </linearGradient>
+
+    <linearGradient id="boxBgPlan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#221A0F"/>
+      <stop offset="100%" stop-color="#120D06"/>
+    </linearGradient>
+
+    <filter id="boxGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="archGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#2E1065" stroke-width="0.5" stroke-opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="680" fill="url(#panelBg)"/>
+  <rect width="1200" height="680" fill="url(#archGrid)"/>
+
+  <!-- Outer HUD Frame -->
+  <rect x="20" y="20" width="1160" height="640" rx="8" fill="none" stroke="#2E1065" stroke-width="1.5"/>
+  <rect x="24" y="24" width="1152" height="632" rx="6" fill="none" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- Corner Brackets -->
+  <path d="M 15 45 L 15 15 L 45 15" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1155 15 L 1185 15 L 1185 45" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 15 635 L 15 665 L 45 665" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <path d="M 1155 665 L 1185 665 L 1185 635" fill="none" stroke="#D4AF37" stroke-width="2"/>
+
+  <!-- Header Title Block -->
+  <g transform="translate(45, 55)">
+    <circle cx="6" cy="6" r="5" fill="#00B7FF"/>
+    <text x="22" y="10" font-family="system-ui, sans-serif" font-size="16" font-weight="900" letter-spacing="3px" fill="#FFFFFF">
+      ORION HELIX AI <tspan fill="#D4AF37">//</tspan> SYSTEM ARCHITECTURE MATRIX
+    </text>
+    <text x="22" y="28" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1.5px" fill="#9CA3AF">
+      SYSTEM LAYER DECOUPLING: TRANSITIONING GENERATIVE MODELS TO AUTONOMOUS AGENTIC INTELLIGENCE
+    </text>
+  </g>
+
+  <!-- Legend (Top Right) -->
+  <g transform="translate(750, 48)" font-family="ui-monospace, monospace" font-size="10.5" letter-spacing="1px">
+    <circle cx="10" cy="12" r="4.5" fill="#00E5FF"/>
+    <text x="22" y="15" fill="#00E5FF">IMPLEMENTED</text>
+    
+    <circle cx="150" cy="12" r="4.5" fill="#A78BFA"/>
+    <text x="162" y="15" fill="#A78BFA">IN DEVELOPMENT</text>
+    
+    <circle cx="310" cy="12" r="4.5" fill="#D4AF37"/>
+    <text x="322" y="15" fill="#D4AF37">PLANNED / R&amp;D</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="45" y1="92" x2="1155" y2="92" stroke="#2E1065" stroke-width="1.2"/>
+
+  <!-- ==================== LAYER 1: CLIENT & WORKSPACE SURFACE ==================== -->
+  <g transform="translate(45, 105)">
+    <rect x="0" y="0" width="1110" height="105" rx="6" fill="#0D0817" stroke="#2E1065" stroke-width="1"/>
+    <text x="18" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="2px" fill="#D4AF37">
+      [01] CLIENT &amp; WORKSPACE INTERACTION SURFACE
+    </text>
+
+    <!-- Box 1.1 -->
+    <g transform="translate(20, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Artifact Canvas V4 Engine</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Side-by-side code/content canvas &#8226; React</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+
+    <!-- Box 1.2 -->
+    <g transform="translate(385, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgDev)" stroke="#7C3AED" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#A78BFA"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">OrionHelixOS Workspace</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Workspace switching &#8226; App launcher hub</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#C4B5FD">IN PROGRESS</text>
+    </g>
+
+    <!-- Box 1.3 -->
+    <g transform="translate(750, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Real-Time Streaming Bus</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Socket.io bidirectional WebSocket stream</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 1 -> Layer 2 -->
+  <line x1="600" y1="210" x2="600" y2="238" stroke="#7C3AED" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="600,242 596,234 604,234" fill="#7C3AED"/>
+
+  <!-- ==================== LAYER 2: ROUTING & GATEWAY ==================== -->
+  <g transform="translate(45, 245)">
+    <rect x="0" y="0" width="1110" height="105" rx="6" fill="#0D0817" stroke="#2E1065" stroke-width="1"/>
+    <text x="18" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="2px" fill="#D4AF37">
+      [02] API GATEWAY &amp; MULTI-MODEL ROUTING
+    </text>
+
+    <!-- Box 2.1 -->
+    <g transform="translate(20, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Dual LLM Inference Router</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Groq API (low latency) + Google Gemini API</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+
+    <!-- Box 2.2 -->
+    <g transform="translate(385, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgDev)" stroke="#7C3AED" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#A78BFA"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">FastAPI &amp; Express Hybrid</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Python computational core &#8226; Node gateway</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#C4B5FD">IN PROGRESS</text>
+    </g>
+
+    <!-- Box 2.3 -->
+    <g transform="translate(750, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Supabase Auth &amp; Session Layer</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">JWT validation &#8226; Tenant context security</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 2 -> Layer 3 -->
+  <line x1="600" y1="350" x2="600" y2="378" stroke="#7C3AED" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="600,382 596,374 604,374" fill="#7C3AED"/>
+
+  <!-- ==================== LAYER 3: AGENTIC ORCHESTRATION ==================== -->
+  <g transform="translate(45, 385)">
+    <rect x="0" y="0" width="1110" height="115" rx="6" fill="#0D0817" stroke="#2E1065" stroke-width="1"/>
+    <text x="18" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="2px" fill="#D4AF37">
+      [03] AGENTIC INTELLIGENCE &amp; ORCHESTRATION PIPELINE
+    </text>
+
+    <!-- Box 3.1 -->
+    <g transform="translate(20, 36)">
+      <rect width="255" height="65" rx="4" fill="url(#boxBgDev)" stroke="#7C3AED" stroke-width="1"/>
+      <circle cx="14" cy="18" r="3" fill="#A78BFA"/>
+      <text x="24" y="21" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Goal Decomposition</text>
+      <text x="24" y="36" font-family="ui-monospace, monospace" font-size="9" fill="#9CA3AF">Task DAG breakdown</text>
+      <text x="24" y="50" font-family="ui-monospace, monospace" font-size="8.5" fill="#6B7280">Multi-step plan synthesis</text>
+      <rect x="165" y="8" width="82" height="16" rx="2" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="206" y="19" text-anchor="middle" font-family="ui-monospace, monospace" font-size="8" font-weight="700" fill="#C4B5FD">IN DEV</text>
+    </g>
+
+    <!-- Box 3.2 -->
+    <g transform="translate(295, 36)">
+      <rect width="255" height="65" rx="4" fill="url(#boxBgDev)" stroke="#7C3AED" stroke-width="1"/>
+      <circle cx="14" cy="18" r="3" fill="#A78BFA"/>
+      <text x="24" y="21" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Tool Execution Registry</text>
+      <text x="24" y="36" font-family="ui-monospace, monospace" font-size="9" fill="#9CA3AF">API invoking sandbox</text>
+      <text x="24" y="50" font-family="ui-monospace, monospace" font-size="8.5" fill="#6B7280">Structured schema calling</text>
+      <rect x="165" y="8" width="82" height="16" rx="2" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="206" y="19" text-anchor="middle" font-family="ui-monospace, monospace" font-size="8" font-weight="700" fill="#C4B5FD">IN DEV</text>
+    </g>
+
+    <!-- Box 3.3 -->
+    <g transform="translate(570, 36)">
+      <rect width="255" height="65" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="14" cy="18" r="3" fill="#00E5FF"/>
+      <text x="24" y="21" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Human-in-Loop Approval</text>
+      <text x="24" y="36" font-family="ui-monospace, monospace" font-size="9" fill="#9CA3AF">CampVion verified engine</text>
+      <text x="24" y="50" font-family="ui-monospace, monospace" font-size="8.5" fill="#6B7280">Consequential gate check</text>
+      <rect x="165" y="8" width="82" height="16" rx="2" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="206" y="19" text-anchor="middle" font-family="ui-monospace, monospace" font-size="8" font-weight="700" fill="#00E5FF">SHIPPED</text>
+    </g>
+
+    <!-- Box 3.4 -->
+    <g transform="translate(845, 36)">
+      <rect width="245" height="65" rx="4" fill="url(#boxBgPlan)" stroke="#D4AF37" stroke-width="1"/>
+      <circle cx="14" cy="18" r="3" fill="#D4AF37"/>
+      <text x="24" y="21" font-family="system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Self-Correction Loop</text>
+      <text x="24" y="36" font-family="ui-monospace, monospace" font-size="9" fill="#9CA3AF">Dynamic replanning engine</text>
+      <text x="24" y="50" font-family="ui-monospace, monospace" font-size="8.5" fill="#6B7280">Multi-agent arbitration</text>
+      <rect x="155" y="8" width="82" height="16" rx="2" fill="#D4AF37" fill-opacity="0.15"/>
+      <text x="196" y="19" text-anchor="middle" font-family="ui-monospace, monospace" font-size="8" font-weight="700" fill="#D4AF37">PLANNED</text>
+    </g>
+  </g>
+
+  <!-- Connectors Layer 3 -> Layer 4 -->
+  <line x1="600" y1="500" x2="600" y2="528" stroke="#7C3AED" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="600,532 596,524 604,524" fill="#7C3AED"/>
+
+  <!-- ==================== LAYER 4: MEMORY & PERSISTENCE ==================== -->
+  <g transform="translate(45, 535)">
+    <rect x="0" y="0" width="1110" height="105" rx="6" fill="#0D0817" stroke="#2E1065" stroke-width="1"/>
+    <text x="18" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="700" letter-spacing="2px" fill="#D4AF37">
+      [04] PERSISTENT MEMORY &amp; DATA STORAGE SUBSYSTEM
+    </text>
+
+    <!-- Box 4.1 -->
+    <g transform="translate(20, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Session Context Cache</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Short-term dialogue buffer &#8226; Real-time sync</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+
+    <!-- Box 4.2 -->
+    <g transform="translate(385, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgPlan)" stroke="#D4AF37" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#D4AF37"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Vector Embeddings Index</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">Long-term cross-session semantic recall</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#D4AF37" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#D4AF37">PLANNED</text>
+    </g>
+
+    <!-- Box 4.3 -->
+    <g transform="translate(750, 36)">
+      <rect width="340" height="55" rx="4" fill="url(#boxBgImp)" stroke="#00E5FF" stroke-width="1"/>
+      <circle cx="16" cy="18" r="3.5" fill="#00E5FF"/>
+      <text x="28" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Relational State Database</text>
+      <text x="28" y="38" font-family="ui-monospace, monospace" font-size="10" fill="#9CA3AF">MySQL / PostgreSQL structured archives</text>
+      <rect x="235" y="8" width="95" height="18" rx="3" fill="#00E5FF" fill-opacity="0.15"/>
+      <text x="282" y="20" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#00E5FF">IMPLEMENTED</text>
+    </g>
+  </g>
+</svg>
